@@ -6,13 +6,14 @@
 # Žygimantas Beručka <zygis@gnome.org>, 2004-2006.
 # Justina klingaitė <justina.klingaite@gmail.com>, 2005.
 # Gintautas Miliauskas <gintas@akl.lt>, 2006, 2010.
+# Džiugas Grėbliūnas <dziugas.grebliunas@gmail.com>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: lt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2010-03-28 12:14+0300\n"
 "PO-Revision-Date: 2010-03-28 12:14+0300\n"
-"Last-Translator: Gintautas Miliauskas <gintas@akl.lt>\n"
+"Last-Translator: Džiugas Grėbliūnas <dziugas.grebliunas@gmail.com>\n"
 "Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -24,12 +25,12 @@ msgstr ""
 #. A city in Yemen
 #: ../data/Locations.xml.in.h:2
 msgid "'Adan"
-msgstr "'Adan"
+msgstr "'Adanas"
 
 #. A city in Saudi Arabia
 #: ../data/Locations.xml.in.h:4
 msgid "'Ar'ar"
-msgstr "'Ar'ar"
+msgstr "'Araras"
 
 #. A city in Yemen
 #: ../data/Locations.xml.in.h:6
@@ -46,29 +47,29 @@ msgstr "Arua"
 #.
 #: ../data/Locations.xml.in.h:12
 msgid "Abadan"
-msgstr "Abadan"
+msgstr "Abadanas"
 
 #. A city in Iran
 #: ../data/Locations.xml.in.h:14
 msgid "Abadeh"
-msgstr "Abadan"
+msgstr "Abadė"
 
 #. A city in Russia.
 #. The local name in Russian is "Абакан".
 #.
 #: ../data/Locations.xml.in.h:18
 msgid "Abakan"
-msgstr "Abakan"
+msgstr "Abakanas"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:20
 msgid "Abbeville"
-msgstr "Ešvilis"
+msgstr "Abvilis"
 
 #. A city in British Columbia in Canada
 #: ../data/Locations.xml.in.h:22
 msgid "Abbotsford"
-msgstr "Abbotsford"
+msgstr "Abotsfordas"
 
 #. A city in Saudi Arabia
 #: ../data/Locations.xml.in.h:24
@@ -78,17 +79,17 @@ msgstr "Abha"
 #. A city in Côte d'Ivoire
 #: ../data/Locations.xml.in.h:26
 msgid "Abidjan"
-msgstr "Abidjan"
+msgstr "Abidžanas"
 
 #. A city in Texas in the United States
 #: ../data/Locations.xml.in.h:28
 msgid "Abilene"
-msgstr "Abilene"
+msgstr "Abilenas"
 
 #. A city in Virginia in the United States
 #: ../data/Locations.xml.in.h:30
 msgid "Abingdon"
-msgstr "Abingdon"
+msgstr "Abingdonas"
 
 #. The capital of the United Arab Emirates.
 #. "Abu Dhabi" is the traditional English name.
@@ -101,22 +102,22 @@ msgstr "Abu Dabis"
 #. A city in Iran
 #: ../data/Locations.xml.in.h:37
 msgid "Abū Mūsā"
-msgstr "Abū Mūsā"
+msgstr "Abu Musa"
 
 #. A city in Guerrero in Mexico
 #: ../data/Locations.xml.in.h:39
 msgid "Acapulco"
-msgstr "Akapulko"
+msgstr "Akapulkas"
 
 #. A city in Venezuela
 #: ../data/Locations.xml.in.h:41
 msgid "Acarigua"
-msgstr "Acarigua"
+msgstr "Acarigva"
 
 #. The capital of Ghana
 #: ../data/Locations.xml.in.h:43
 msgid "Accra"
-msgstr "Accra"
+msgstr "Akra"
 
 #. A city in Lower Saxony in Germany
 #: ../data/Locations.xml.in.h:45
@@ -136,7 +137,7 @@ msgstr "Ad Dalfa'ah"
 #. A city in Saudi Arabia
 #: ../data/Locations.xml.in.h:51
 msgid "Ad Dammam"
-msgstr "Ad Dammam"
+msgstr "Damamas"
 
 #. A city in Oklahoma in the United States
 #: ../data/Locations.xml.in.h:53
@@ -168,12 +169,12 @@ msgstr "Adelaidė"
 #.
 #: ../data/Locations.xml.in.h:65
 msgid "Adler"
-msgstr "Adler"
+msgstr "Adleris"
 
 #. A city in Algeria
 #: ../data/Locations.xml.in.h:67
 msgid "Adrar"
-msgstr "Adrar"
+msgstr "Adraras"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:69
@@ -192,12 +193,12 @@ msgstr "Afrika"
 #. A city in Niger
 #: ../data/Locations.xml.in.h:74
 msgid "Agadez"
-msgstr "Agadez"
+msgstr "Agadesas"
 
 #. A city in Morocco
 #: ../data/Locations.xml.in.h:76
 msgid "Agadir"
-msgstr "Agadir"
+msgstr "Agadiras"
 
 #. A city in India
 #. the local name in Bengali is "আগরতলা/Agortôla"
@@ -213,7 +214,7 @@ msgstr "Agassiz"
 #. A city in France
 #: ../data/Locations.xml.in.h:83
 msgid "Agen"
-msgstr "Agen"
+msgstr "Aženas"
 
 #. A city in Iran.
 #. The name is also written "آغاجاری".
@@ -237,7 +238,7 @@ msgstr "Agra"
 #. A city in India
 #: ../data/Locations.xml.in.h:95
 msgid "Ahmadabad"
-msgstr "Ahmadabad"
+msgstr "Ahmadabadas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:97
@@ -249,7 +250,7 @@ msgstr "Ahoskie"
 #.
 #: ../data/Locations.xml.in.h:101
 msgid "Ahvaz"
-msgstr "Ahvaz"
+msgstr "Ahvazas"
 
 #. A city in Austria.
 #. One of several cities in Austria called "Aigen".
@@ -271,7 +272,7 @@ msgstr "Aitkin"
 #. A city in France
 #: ../data/Locations.xml.in.h:111
 msgid "Ajaccio"
-msgstr "Ajaccioo"
+msgstr "Ajačas"
 
 #. A city in Japan
 #: ../data/Locations.xml.in.h:113
@@ -291,12 +292,12 @@ msgstr "Akrotiri"
 #. A city in Iceland
 #: ../data/Locations.xml.in.h:119
 msgid "Akureyri"
-msgstr "Akureyri"
+msgstr "Akureiris"
 
 #. A city in Jordan
 #: ../data/Locations.xml.in.h:121
 msgid "Al 'Aqabah"
-msgstr "Al 'Aqabah"
+msgstr "Akaba"
 
 #. A city in Saudi Arabia
 #: ../data/Locations.xml.in.h:123
@@ -306,12 +307,12 @@ msgstr "Al 'Aqiq"
 #. A city in Egypt
 #: ../data/Locations.xml.in.h:125
 msgid "Al 'Arish"
-msgstr "Al 'Arish"
+msgstr "Arišas"
 
 #. A city in the United Arab Emirates
 #: ../data/Locations.xml.in.h:127
 msgid "Al 'Ayn"
-msgstr "Al 'Ayn"
+msgstr "Ainas"
 
 #. A city in the United Arab Emirates
 #: ../data/Locations.xml.in.h:129
@@ -321,7 +322,7 @@ msgstr "Al Fujayrah"
 #. A city in Egypt
 #: ../data/Locations.xml.in.h:131
 msgid "Al Ghardaqah"
-msgstr "Al Ghardaqah"
+msgstr "Hurgada"
 
 #. A city in Bahrain.
 #. The name is also written "الحد".
@@ -333,12 +334,12 @@ msgstr "Al Hadd"
 #. A city in Morocco
 #: ../data/Locations.xml.in.h:137
 msgid "Al Hoceima"
-msgstr "Al Hoceima"
+msgstr "Hoseima"
 
 #. A city in Yemen
 #: ../data/Locations.xml.in.h:139
 msgid "Al Hudaydah"
-msgstr "Al Hudaydah"
+msgstr "Chudaida"
 
 #. A city in Jordan
 #: ../data/Locations.xml.in.h:141
@@ -353,7 +354,7 @@ msgstr "Al Qabuti"
 #. A city in Syria
 #: ../data/Locations.xml.in.h:145
 msgid "Al Qamishli"
-msgstr "Al Qamishli"
+msgstr "Kamišlis"
 
 #. A city in Saudi Arabia
 #: ../data/Locations.xml.in.h:147
@@ -388,7 +389,7 @@ msgstr "Alabaster"
 #. A state/province/territory in Brazil
 #: ../data/Locations.xml.in.h:159
 msgid "Alagoas"
-msgstr "Alagoas"
+msgstr "Alagoasas"
 
 #. This represents the time zone in the Brazilian states of
 #. Alagoas and Sergipe. See the comment on "Brasília Time"
@@ -397,12 +398,12 @@ msgstr "Alagoas"
 #.
 #: ../data/Locations.xml.in.h:165
 msgid "Alagoas, Sergipe"
-msgstr "Alagoas, Sergipe"
+msgstr "Alagoasas, Seržipė"
 
 #. A city in Costa Rica
 #: ../data/Locations.xml.in.h:167
 msgid "Alajuela"
-msgstr "Alajuela"
+msgstr "Alachuela"
 
 #. A city in New Mexico in the United States
 #: ../data/Locations.xml.in.h:169
@@ -465,17 +466,17 @@ msgstr "Albion"
 #. A city in New Mexico in the United States
 #: ../data/Locations.xml.in.h:194
 msgid "Albuquerque"
-msgstr "Albuquerque"
+msgstr "Albukerkė"
 
 #. A city in Spain
 #: ../data/Locations.xml.in.h:196
 msgid "Alcantarilla"
-msgstr "Alcantarilla"
+msgstr "Alkantarilja"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:198
 msgid "Alençon"
-msgstr "Alençon"
+msgstr "Alansonas"
 
 #. A city in Syria.
 #. "Aleppo" is the traditional English name.
@@ -483,7 +484,7 @@ msgstr "Alençon"
 #.
 #: ../data/Locations.xml.in.h:203
 msgid "Aleppo"
-msgstr "Aleppo"
+msgstr "Alepas"
 
 #. A city in Alabama in the United States
 #: ../data/Locations.xml.in.h:205
@@ -493,17 +494,17 @@ msgstr "Alexander City"
 #. A city in Greece
 #: ../data/Locations.xml.in.h:207
 msgid "Alexandroúpolis"
-msgstr "Alexandroúpolis"
+msgstr "Aleksandrupolis"
 
 #. DZ - Algeria
 #: ../data/Locations.xml.in.h:209
 msgid "Algeria"
-msgstr "Algerija"
+msgstr "Alžyras"
 
 #. A city in Italy
 #: ../data/Locations.xml.in.h:211
 msgid "Alghero"
-msgstr "Alghero"
+msgstr "Algeras"
 
 #. The capital of Algeria.
 #. "Algiers" is the traditional English name.
@@ -516,7 +517,7 @@ msgstr "Alžyras"
 #. A city in Spain
 #: ../data/Locations.xml.in.h:218
 msgid "Alicante"
-msgstr "Alice"
+msgstr "Alikantė"
 
 #. A city in Texas in the United States
 #: ../data/Locations.xml.in.h:220
@@ -526,7 +527,7 @@ msgstr "Alice"
 #. A city in Northern Territory in Australia
 #: ../data/Locations.xml.in.h:222
 msgid "Alice Springs"
-msgstr "Alice Springs"
+msgstr "Elis Springsas"
 
 #. A city in India
 #. the local name in Hindi is "इलाहाबाद"
@@ -537,7 +538,7 @@ msgstr "Alahabadas"
 #. A city in Pennsylvania in the United States
 #: ../data/Locations.xml.in.h:227
 msgid "Allentown"
-msgstr "Allentown"
+msgstr "Alentaunas"
 
 #. A city in Nebraska in the United States
 #: ../data/Locations.xml.in.h:229
@@ -552,17 +553,17 @@ msgstr "Victoria Harbour"
 #. A city in Kazakhstan
 #: ../data/Locations.xml.in.h:233
 msgid "Almaty"
-msgstr "Almaty"
+msgstr "Almata"
 
 #. A city in Spain
 #: ../data/Locations.xml.in.h:235
 msgid "Almería"
-msgstr "Alberta"
+msgstr "Almerija"
 
 #. The capital of Niue
 #: ../data/Locations.xml.in.h:237
 msgid "Alofi"
-msgstr "Al-Jouf"
+msgstr "Alofis"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:239
@@ -577,32 +578,32 @@ msgstr "Alta"
 #. A city in Mato Grosso in Brazil
 #: ../data/Locations.xml.in.h:243
 msgid "Alta Floresta"
-msgstr "Flores"
+msgstr "Alta Floresta"
 
 #. A city in British Columbia in Canada
 #: ../data/Locations.xml.in.h:245
 msgid "Alta Lake"
-msgstr "Slave Lake"
+msgstr "Alta Lake"
 
 #. A city in Pará in Brazil
 #: ../data/Locations.xml.in.h:247
 msgid "Altamira"
-msgstr "Elmira"
+msgstr "Altamira"
 
 #. A city in Thuringia in Germany
 #: ../data/Locations.xml.in.h:249
 msgid "Altenburg"
-msgstr "Altenburg"
+msgstr "Altenburgas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:251
 msgid "Alton"
-msgstr "Alton"
+msgstr "Altonas"
 
 #. A city in Pennsylvania in the United States
 #: ../data/Locations.xml.in.h:253
 msgid "Altoona"
-msgstr "Altoona"
+msgstr "Altūna"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:255
@@ -627,7 +628,7 @@ msgstr "Amapala"
 #. A state/province/territory in Brazil
 #: ../data/Locations.xml.in.h:263
 msgid "Amapá"
-msgstr "Amapá"
+msgstr "Amapa"
 
 #. This represents the time zone in the Brazilian state of
 #. Amapá and the eastern part of Pará. See the comment on
@@ -637,17 +638,17 @@ msgstr "Amapá"
 #.
 #: ../data/Locations.xml.in.h:270
 msgid "Amapá / East Pará"
-msgstr "Amapá / East Pará"
+msgstr "Amapa / Rytinė Para"
 
 #. A city in Texas in the United States
 #: ../data/Locations.xml.in.h:272
 msgid "Amarillo"
-msgstr "Amarillo"
+msgstr "Amarilas"
 
 #. A state/province/territory in Brazil
 #: ../data/Locations.xml.in.h:274
 msgid "Amazonas"
-msgstr "Amazonas"
+msgstr "Amazona"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:276
@@ -672,7 +673,7 @@ msgstr "Amelia"
 #.
 #: ../data/Locations.xml.in.h:287
 msgid "American Samoa"
-msgstr "American Samoa"
+msgstr "Amerikos Samoa"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:289
@@ -690,7 +691,7 @@ msgstr "Ami"
 #.
 #: ../data/Locations.xml.in.h:296
 msgid "Amman"
-msgstr "Amman"
+msgstr "Amanas"
 
 #. A city in Quebec in Canada
 #: ../data/Locations.xml.in.h:298
@@ -702,7 +703,7 @@ msgstr "Amqui"
 #.
 #: ../data/Locations.xml.in.h:302
 msgid "Amritsar"
-msgstr "Amritsar"
+msgstr "Amritsaras"
 
 #. The capital of the Netherlands
 #: ../data/Locations.xml.in.h:304
@@ -715,19 +716,19 @@ msgstr "Amsterdamas"
 #.
 #: ../data/Locations.xml.in.h:309
 msgid "Amundsen-Scott South Pole Station (New Zealand Time)"
-msgstr "Amundsen-Scott South Pole Station (New Zealand Time)"
+msgstr "Amundseno-Skoto pietų ašigalio stotis (Naujosios Zelandijos laikas)"
 
 #. A city in Russia.
 #. The local name in Russian is "Анадырь".
 #.
 #: ../data/Locations.xml.in.h:313
 msgid "Anadyr'"
-msgstr "Anadyr'"
+msgstr "Anadyris"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:315
 msgid "Anaheim"
-msgstr "Anaheim"
+msgstr "Anaheimas"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:317
@@ -744,12 +745,12 @@ msgstr "Anapa"
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:323
 msgid "Anchorage"
-msgstr "Anchorage"
+msgstr "Ankoridžas"
 
 #. A city in Peru
 #: ../data/Locations.xml.in.h:325
 msgid "Andahuaylas"
-msgstr "Andahuaylas"
+msgstr "Amundseno-Skoto pietų ašigalio stotis"
 
 #. A city in Alabama in the United States
 #: ../data/Locations.xml.in.h:327
@@ -759,17 +760,17 @@ msgstr "Andalusia"
 #. AD - Andorra
 #: ../data/Locations.xml.in.h:329
 msgid "Andorra"
-msgstr "Andorra"
+msgstr "Andora"
 
 #. A city in New Jersey in the United States
 #: ../data/Locations.xml.in.h:331
 msgid "Andover"
-msgstr "Andover"
+msgstr "Andoveris"
 
 #. A city in Greece
 #: ../data/Locations.xml.in.h:333
 msgid "Andravída"
-msgstr "Andravída"
+msgstr "Andravida"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:335
