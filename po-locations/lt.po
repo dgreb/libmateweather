@@ -2782,32 +2782,32 @@ msgstr "Camacuri"
 #. A city in Cuba
 #: ../data/Locations.xml.in.h:1208
 msgid "Camagüey"
-msgstr "Camagüey"
+msgstr "Kamagvėjus"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1210
 msgid "Camarillo"
-msgstr "Camarillo"
+msgstr "Kamarilas"
 
 #. KH - Cambodia
 #: ../data/Locations.xml.in.h:1212
 msgid "Cambodia"
-msgstr "Cambodia"
+msgstr "Kambodža"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:1214
 msgid "Cambrai"
-msgstr "Cambrai"
+msgstr "Kambrė"
 
 #. A city in Nunavut in Canada
 #: ../data/Locations.xml.in.h:1216
 msgid "Cambridge Bay"
-msgstr "Cambridge Bay"
+msgstr "Keimbridž Bėjus"
 
 #. A city in Arkansas in the United States
 #: ../data/Locations.xml.in.h:1218
 msgid "Camden"
-msgstr "Camden"
+msgstr "Kamdenas"
 
 #. CM - Cameroon
 #: ../data/Locations.xml.in.h:1220
@@ -2817,7 +2817,7 @@ msgstr "Kamerūnas"
 #. A city in Bolivia
 #: ../data/Locations.xml.in.h:1222
 msgid "Camiri"
-msgstr "Camiri"
+msgstr "Kamyris"
 
 #. A city in Wisconsin in the United States
 #: ../data/Locations.xml.in.h:1224
@@ -2827,27 +2827,27 @@ msgstr "Camp Douglas"
 #. A city in Maryland in the United States
 #: ../data/Locations.xml.in.h:1226
 msgid "Camp Springs"
-msgstr "Camp Springs"
+msgstr "Kamp Springsas"
 
 #. A city in British Columbia in Canada
 #: ../data/Locations.xml.in.h:1228
 msgid "Campbell River"
-msgstr "Campbell River"
+msgstr "Kambel Riveris"
 
 #. A city in Scotland in the United Kingdom
 #: ../data/Locations.xml.in.h:1230
 msgid "Campbeltown"
-msgstr "Campbeltown"
+msgstr "Kambeltaunas"
 
 #. A city in Paraíba in Brazil
 #: ../data/Locations.xml.in.h:1232
 msgid "Campina Grande"
-msgstr "Campina Grande"
+msgstr "Kampina Grandė"
 
 #. A city in São Paulo in Brazil
 #: ../data/Locations.xml.in.h:1234
 msgid "Campinas"
-msgstr "Campinas"
+msgstr "Kampinasas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1236
@@ -2857,12 +2857,12 @@ msgstr "Campo"
 #. A city in Mato Grosso do Sul in Brazil
 #: ../data/Locations.xml.in.h:1238
 msgid "Campo Grande"
-msgstr "Campo Grande"
+msgstr "Kampo Grandė"
 
 #. A city in Rio de Janeiro in Brazil
 #: ../data/Locations.xml.in.h:1240
 msgid "Campos"
-msgstr "Campos"
+msgstr "Kamposas"
 
 #. CA - Canada
 #: ../data/Locations.xml.in.h:1242
@@ -2872,7 +2872,7 @@ msgstr "Kanada"
 #. A city in Texas in the United States
 #: ../data/Locations.xml.in.h:1244
 msgid "Canadian"
-msgstr "Canadian"
+msgstr "Kaneidianas"
 
 #. This refers to the time zone for the Canary Islands. The
 #. string is only used in places where "Spain" is already
@@ -2885,12 +2885,12 @@ msgstr "Kanarų salos"
 #. The capital of Australia
 #: ../data/Locations.xml.in.h:1251
 msgid "Canberra"
-msgstr "Canberra"
+msgstr "Kanbera"
 
 #. A city in Quintana Roo in Mexico
 #: ../data/Locations.xml.in.h:1253
 msgid "Cancún"
-msgstr "Cancún"
+msgstr "Kankūnas"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:1255
@@ -2900,12 +2900,12 @@ msgstr "Kanai"
 #. A city in Nova Scotia in Canada
 #: ../data/Locations.xml.in.h:1257
 msgid "Canso"
-msgstr "Canso"
+msgstr "Kansas"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1259
 msgid "Canton"
-msgstr "Canton"
+msgstr "Kantonas"
 
 #. A city in Quebec in Canada
 #: ../data/Locations.xml.in.h:1261
@@ -2925,12 +2925,12 @@ msgstr "Cap-aux-Meules"
 #. A city in Florida in the United States
 #: ../data/Locations.xml.in.h:1267
 msgid "Cape Canaveral"
-msgstr "Cape Canaveral"
+msgstr "Kanaveralo kyšulys"
 
 #. A city in Florida in the United States
 #: ../data/Locations.xml.in.h:1269
 msgid "Cape Coral"
-msgstr "Cape Coral"
+msgstr "Keip Koralas"
 
 #. A city in Quebec in Canada
 #: ../data/Locations.xml.in.h:1271
@@ -2940,12 +2940,12 @@ msgstr "Cape Cove"
 #. A city in Nunavut in Canada
 #: ../data/Locations.xml.in.h:1273
 msgid "Cape Dorset"
-msgstr "Cape Dorset"
+msgstr "Keip Dorsetas"
 
 #. A city in Nunavut in Canada
 #: ../data/Locations.xml.in.h:1275
 msgid "Cape Dyer"
-msgstr "Cape Dyer"
+msgstr "Dajerio kyšulys"
 
 #. A city in Missouri in the United States
 #: ../data/Locations.xml.in.h:1277
@@ -2965,42 +2965,42 @@ msgstr "Cape Race"
 #. A city in South Africa
 #: ../data/Locations.xml.in.h:1283
 msgid "Cape Town"
-msgstr "Cape Town"
+msgstr "Keiptaunas"
 
 #. CV - Cape Verde
 #: ../data/Locations.xml.in.h:1285
 msgid "Cape Verde"
-msgstr "Cape Verde"
+msgstr "Žaliasis Kyšulys"
 
 #. A city in Italy
 #: ../data/Locations.xml.in.h:1287
 msgid "Capri"
-msgstr "Capri"
+msgstr "Kapris"
 
 #. The capital of Venezuela
 #: ../data/Locations.xml.in.h:1289
 msgid "Caracas"
-msgstr "Caracas"
+msgstr "Karakasas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1291
 msgid "Carbondale"
-msgstr "Carbondale"
+msgstr "Karbondeilis"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:1293
 msgid "Carcassonne"
-msgstr "Carcassonne"
+msgstr "Karkasonas"
 
 #. A city in Alberta in Canada
 #: ../data/Locations.xml.in.h:1295
 msgid "Cardston"
-msgstr "Cardston"
+msgstr "Kardstonas"
 
 #. A city in Maine in the United States
 #: ../data/Locations.xml.in.h:1297
 msgid "Caribou"
-msgstr "Caribou"
+msgstr "Karibu"
 
 #. A city in Nova Scotia in Canada
 #: ../data/Locations.xml.in.h:1299
@@ -3010,72 +3010,72 @@ msgstr "Caribou Island"
 #. A city in North West England in the United Kingdom
 #: ../data/Locations.xml.in.h:1301
 msgid "Carlisle"
-msgstr "Carlisle"
+msgstr "Karlailas"
 
 #. A city in Yukon Territory in Canada
 #: ../data/Locations.xml.in.h:1303
 msgid "Carmacks"
-msgstr "Carmacks"
+msgstr "Karmaksas"
 
 #. A city in Manitoba in Canada
 #: ../data/Locations.xml.in.h:1305
 msgid "Carman"
-msgstr "Carman"
+msgstr "Karmanas"
 
 #. A city in Campeche in Mexico
 #: ../data/Locations.xml.in.h:1307
 msgid "Carmen"
-msgstr "Carmen"
+msgstr "Karmenas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1309
 msgid "Carmi"
-msgstr "Carmi"
+msgstr "Karmajus"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:1311
 msgid "Caro"
-msgstr "Caro"
+msgstr "Karas"
 
 #. A city in Puerto Rico
 #: ../data/Locations.xml.in.h:1313
 msgid "Carolina"
-msgstr "Carolina"
+msgstr "Karolina"
 
 #. A city in Uruguay
 #: ../data/Locations.xml.in.h:1315
 msgid "Carrasco"
-msgstr "Carrasco"
+msgstr "Karaskas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:1317
 msgid "Carroll"
-msgstr "Carroll"
+msgstr "Karolas"
 
 #. A city in Texas in the United States
 #: ../data/Locations.xml.in.h:1319
 msgid "Carrollton"
-msgstr "Carrollton"
+msgstr "Karoltonas"
 
 #. A city in Colombia
 #: ../data/Locations.xml.in.h:1321
 msgid "Cartagena"
-msgstr "Cartagena"
+msgstr "Kartachena"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1323
 msgid "Cartersville"
-msgstr "Cartersville"
+msgstr "Kartersvilis"
 
 #. A city in Newfoundland and Labrador in Canada
 #: ../data/Locations.xml.in.h:1325
 msgid "Cartwright"
-msgstr "Cartwright"
+msgstr "Kartraitas"
 
 #. A city in Arizona in the United States
 #: ../data/Locations.xml.in.h:1327
 msgid "Casa Grande"
-msgstr "Casa Grande"
+msgstr "Kasa Grandė"
 
 #. A city in the Seychelles
 #: ../data/Locations.xml.in.h:1329
@@ -3099,12 +3099,12 @@ msgstr "Casey Station (Western Australia Time)"
 #. A city in Wyoming in the United States
 #: ../data/Locations.xml.in.h:1339
 msgid "Casper"
-msgstr "Casper"
+msgstr "Kasperis"
 
 #. A city in Portugal
 #: ../data/Locations.xml.in.h:1341
 msgid "Castelo Branco"
-msgstr "Castelo Branco"
+msgstr "Kastelo Brankas"
 
 #. A city in Midlands in the United Kingdom
 #: ../data/Locations.xml.in.h:1343
@@ -3114,42 +3114,42 @@ msgstr "Castle Donington"
 #. A city in British Columbia in Canada
 #: ../data/Locations.xml.in.h:1345
 msgid "Castlegar"
-msgstr "Castlegar"
+msgstr "Kaslgaras"
 
 #. The capital of Saint Lucia
 #: ../data/Locations.xml.in.h:1347
 msgid "Castries"
-msgstr "Castries"
+msgstr "Kastris"
 
 #. A city in Honduras
 #: ../data/Locations.xml.in.h:1349
 msgid "Catacamas"
-msgstr "Catacamas"
+msgstr "Katakamasas"
 
 #. A city in Italy
 #: ../data/Locations.xml.in.h:1351
 msgid "Catania"
-msgstr "Catania"
+msgstr "Katanija"
 
 #. The capital of French Guiana
 #: ../data/Locations.xml.in.h:1353
 msgid "Cayenne"
-msgstr "Cayenne"
+msgstr "Kajenas"
 
 #. KY - Cayman Islands, a British territory in the Caribbean
 #: ../data/Locations.xml.in.h:1355
 msgid "Cayman Islands"
-msgstr "Cayman Islands"
+msgstr "Kaimanų Salos"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:1357
 msgid "Cazaux"
-msgstr "Cazaux"
+msgstr "Kazo"
 
 #. A state/province/territory in Brazil
 #: ../data/Locations.xml.in.h:1359
 msgid "Ceará"
-msgstr "Ceará"
+msgstr "Seara"
 
 #. This represents the time zone in the Brazilian states of
 #. Ceará, Maranhão, Paraíba, Piauí, and Rio Grande do
@@ -3159,41 +3159,41 @@ msgstr "Ceará"
 #.
 #: ../data/Locations.xml.in.h:1366
 msgid "Ceará, Maranhão, Paraíba, Piauí, Rio Grande do Norte"
-msgstr "Ceará, Maranhão, Paraíba, Piauí, Rio Grande do Norte"
+msgstr "Seara, Maranjanas, Paraiba, Piaujis, Šiaurės Rio Grandė"
 
 #. A city in Utah in the United States
 #: ../data/Locations.xml.in.h:1368
 msgid "Cedar City"
-msgstr "Cedar City"
+msgstr "Sidar Sitis"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:1370
 msgid "Cedar Rapids"
-msgstr "Cedar Rapids"
+msgstr "Sidar Rapidsas"
 
 #. A city in Lower Saxony in Germany
 #: ../data/Locations.xml.in.h:1372
 msgid "Celle"
-msgstr "Celle"
+msgstr "Celė"
 
 #. CF - Central African Republic
 #: ../data/Locations.xml.in.h:1374
 msgid "Central African Republic"
-msgstr "Central African Republic"
+msgstr "Centrinės Afrikos Respublika"
 
 #. The timezone on the central islands of Indonesia. The
 #. name in Indonesian is "Waktu Indonesia Bagian Tengah".
 #.
 #: ../data/Locations.xml.in.h:1378
 msgid "Central Indonesia Time"
-msgstr "Central Indonesia Time"
+msgstr "Centrinės Indonezijos laikas"
 
 #. The time zone used in the central part of Mongolia.
 #. FIXME: Is there an official name for this zone?
 #.
 #: ../data/Locations.xml.in.h:1382
 msgid "Central Mongolia"
-msgstr "Central Mongolia"
+msgstr "Centrinė Mongolija"
 
 #. A city in Ontario in Canada
 #: ../data/Locations.xml.in.h:1384
@@ -3209,7 +3209,7 @@ msgstr "Central Patricia"
 #.
 #: ../data/Locations.xml.in.h:1392
 msgid "Central Time"
-msgstr "Central Time"
+msgstr "Centrinis laikas"
 
 #. The time zone used in Central Australia. This string is
 #. specifically for the time zone as implemented in the
@@ -3219,7 +3219,7 @@ msgstr "Central Time"
 #.
 #: ../data/Locations.xml.in.h:1399
 msgid "Central Time (Northern Territory)"
-msgstr "Central Time (Northern Territory)"
+msgstr "Centrinis laikas (Šiaurinė Teritorija)"
 
 #. The time zone used in Central Australia. This string is
 #. specifically for the time zone as implemented in the
@@ -3228,7 +3228,7 @@ msgstr "Central Time (Northern Territory)"
 #.
 #: ../data/Locations.xml.in.h:1405
 msgid "Central Time (South Australia)"
-msgstr "Central Time (South Australia)"
+msgstr "Centrinis laiaks (Pietų Australija)"
 
 #. The time zone used in Central Australia. This string is
 #. specifically for the time zone as implemented in
@@ -3239,7 +3239,7 @@ msgstr "Central Time (South Australia)"
 #.
 #: ../data/Locations.xml.in.h:1413
 msgid "Central Time (Yancowinna, NSW)"
-msgstr "Central Time (Yancowinna, NSW)"
+msgstr "Centrinis laikas (Yancowinna, NSW)"
 
 #. This represents the time zone in the Canadian province
 #. of Saskatchewan, which is part of the "Central Time"
@@ -3248,7 +3248,7 @@ msgstr "Central Time (Yancowinna, NSW)"
 #.
 #: ../data/Locations.xml.in.h:1419
 msgid "Central Time, no DST (Saskatchewan)"
-msgstr "Central Time, no DST (Saskatchewan)"
+msgstr "Centrinis laikas, be vasaros laiko (Saskačevanas)"
 
 #. The commonly-used name for an unofficial time zone used
 #. in part of southwestern Australia. The string is only
@@ -3257,7 +3257,7 @@ msgstr "Central Time, no DST (Saskatchewan)"
 #.
 #: ../data/Locations.xml.in.h:1425
 msgid "Central Western Time"
-msgstr "Central Western Time"
+msgstr "Centrinis vakarų laikas"
 
 #: ../data/Locations.xml.in.h:1426
 msgid "Central and South America"
@@ -3266,12 +3266,12 @@ msgstr "Centrinė ir Pietų Amerika"
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1428
 msgid "Centralia"
-msgstr "Centralia"
+msgstr "Sentreilija"
 
 #. A city in Italy
 #: ../data/Locations.xml.in.h:1430
 msgid "Cervia"
-msgstr "Cervia"
+msgstr "Červija"
 
 #. The time zone for the Spanish cities of Ceuta and
 #. Melilla, on the coast of Africa. The string is only used
@@ -3279,12 +3279,12 @@ msgstr "Cervia"
 #.
 #: ../data/Locations.xml.in.h:1435
 msgid "Ceuta and Melilla"
-msgstr "Ceuta and Melilla"
+msgstr "Seuta ir Melilja"
 
 #. A city in South Korea
 #: ../data/Locations.xml.in.h:1437
 msgid "Ch'ongju"
-msgstr "Ch'ongju"
+msgstr "Čongdžu"
 
 #. TD - Chad
 #: ../data/Locations.xml.in.h:1439
@@ -3294,49 +3294,49 @@ msgstr "Čadas"
 #. A city in Nebraska in the United States
 #: ../data/Locations.xml.in.h:1441
 msgid "Chadron"
-msgstr "Chadron"
+msgstr "Šadronas"
 
 #. A city in Ukraine
 #: ../data/Locations.xml.in.h:1443
 msgid "Chagor"
-msgstr "Chagor"
+msgstr "Čahoras"
 
 #. A city in Iran.
 #. The name is also written "چاه بهار".
 #.
 #: ../data/Locations.xml.in.h:1447
 msgid "Chah Bahar"
-msgstr "Chah Bahar"
+msgstr "Čabacharas"
 
 #. A city in the Northern Mariana Islands
 #: ../data/Locations.xml.in.h:1449
 msgid "Chalan Kanoa"
-msgstr "Chalan Kanoa"
+msgstr "Čalan Kanoa"
 
 #. A city in Idaho in the United States
 #: ../data/Locations.xml.in.h:1451
 msgid "Challis"
-msgstr "Challis"
+msgstr "Čalisas"
 
 #. A city in New Mexico in the United States
 #: ../data/Locations.xml.in.h:1453
 msgid "Chama"
-msgstr "Chama"
+msgstr "Čama"
 
 #. A city in South Dakota in the United States
 #: ../data/Locations.xml.in.h:1455
 msgid "Chamberlain"
-msgstr "Chamberlain"
+msgstr "Čemberlenas"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:1457
 msgid "Chambéry"
-msgstr "Chambéry"
+msgstr "Šamberi"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1459
 msgid "Champaign"
-msgstr "Champaign"
+msgstr "Šampeinas"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:1461
@@ -3355,105 +3355,105 @@ msgstr "Čandigarchas"
 #.
 #: ../data/Locations.xml.in.h:1469
 msgid "Changchun"
-msgstr "Changchun"
+msgstr "Čangčūnas"
 
 #. A city in Hunan in China.
 #. The name is also written "长沙".
 #.
 #: ../data/Locations.xml.in.h:1473
 msgid "Changsha"
-msgstr "Changsha"
+msgstr "Čangša"
 
 #. A city in Kansas in the United States
 #: ../data/Locations.xml.in.h:1475
 msgid "Chanute"
-msgstr "Chanute"
+msgstr "Šanutas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:1477
 msgid "Chapel Hill"
-msgstr "Chapel Hill"
+msgstr "Čapel Hilis"
 
 #. A city in Ontario in Canada
 #: ../data/Locations.xml.in.h:1479
 msgid "Chapleau"
-msgstr "Chapleau"
+msgstr "Šaplo"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:1481
 msgid "Chariton"
-msgstr "Chariton"
+msgstr "Šaritonas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:1483
 msgid "Charles City"
-msgstr "Charles City"
+msgstr "Čarls Sitis"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:1485
 msgid "Charlevoix"
-msgstr "Charlevoix"
+msgstr "Šarlevojus"
 
 #. A city in the United States Virgin Islands
 #: ../data/Locations.xml.in.h:1487
 msgid "Charlotte Amalie"
-msgstr "Charlotte Amalie"
+msgstr "Šarlotė Amalija"
 
 #. A city in Virginia in the United States
 #: ../data/Locations.xml.in.h:1489
 msgid "Charlottesville"
-msgstr "Charlottesville"
+msgstr "Šarlotsvilis"
 
 #. A city in Prince Edward Island in Canada
 #: ../data/Locations.xml.in.h:1491
 msgid "Charlottetown"
-msgstr "Charlottetown"
+msgstr "Šarlottaunas"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:1493
 msgid "Chartres"
-msgstr "Chartres"
+msgstr "Šartras"
 
 #. A city in Massachusetts in the United States
 #: ../data/Locations.xml.in.h:1495
 msgid "Chatham"
-msgstr "Chatham"
+msgstr "Čatamas"
 
 #. This refers to the time zone in the Chatham Islands of
 #. New Zealand.
 #.
 #: ../data/Locations.xml.in.h:1499
 msgid "Chatham Islands"
-msgstr "Chatham Islands"
+msgstr "Čatamo salos"
 
 #. A city in Tennessee in the United States
 #: ../data/Locations.xml.in.h:1501
 msgid "Chattanooga"
-msgstr "Chattanooga"
+msgstr "Čatanuga"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:1503
 msgid "Cheboygan"
-msgstr "Cheboygan"
+msgstr "Šeboiganas"
 
 #. A city in South Korea
 #: ../data/Locations.xml.in.h:1505
 msgid "Cheju"
-msgstr "Cheju"
+msgstr "Čedžu"
 
 #. A city in Russia.
 #. The local name in Russian is "Челябинск".
 #.
 #: ../data/Locations.xml.in.h:1509
 msgid "Chelyabinsk"
-msgstr "Chelyabinsk"
+msgstr "Čeliabinskas"
 
 #. A city in Sichuan in China.
 #. The name is also written "成都".
 #.
 #: ../data/Locations.xml.in.h:1513
 msgid "Chengdu"
-msgstr "Chengdu"
+msgstr "Čengdu"
 
 #. A city in India.
 #. "Madras" is the traditional English name.
@@ -3466,52 +3466,52 @@ msgstr "Čenajus"
 #. A city in France
 #: ../data/Locations.xml.in.h:1520
 msgid "Cherbourg"
-msgstr "Cherbourg"
+msgstr "Šerbūras"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:1522
 msgid "Cherokee"
-msgstr "Cherokee"
+msgstr "Čerokis"
 
 #. A city in Virginia in the United States
 #: ../data/Locations.xml.in.h:1524
 msgid "Chesapeake"
-msgstr "Chesapeake"
+msgstr "Česapikas"
 
 #. A city in Missouri in the United States
 #: ../data/Locations.xml.in.h:1526
 msgid "Chesterfield"
-msgstr "Chesterfield"
+msgstr "Česterfildas"
 
 #. A city in Nunavut in Canada
 #: ../data/Locations.xml.in.h:1528
 msgid "Chesterfield Inlet"
-msgstr "Chesterfield Inlet"
+msgstr "Česterfild Inletas"
 
 #. A city in Quintana Roo in Mexico
 #: ../data/Locations.xml.in.h:1530
 msgid "Chetumal"
-msgstr "Chetumal"
+msgstr "Četumalis"
 
 #. A city in Wyoming in the United States
 #: ../data/Locations.xml.in.h:1532
 msgid "Cheyenne"
-msgstr "Cheyenne"
+msgstr "Šajenas"
 
 #. A city in Thailand
 #: ../data/Locations.xml.in.h:1534
 msgid "Chiang Mai"
-msgstr "Chiang Mai"
+msgstr "Čiang Majus"
 
 #. A state/province/territory in Mexico
 #: ../data/Locations.xml.in.h:1536
 msgid "Chiapas"
-msgstr "Chiapas"
+msgstr "Čiapasas"
 
 #. A city in Quebec in Canada
 #: ../data/Locations.xml.in.h:1538
 msgid "Chibougamau"
-msgstr "Chibougamau"
+msgstr "Šibugamo"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1540
@@ -3521,22 +3521,22 @@ msgstr "Čikaga"
 #. A city in Yucatán in Mexico
 #: ../data/Locations.xml.in.h:1542
 msgid "Chichén-Itzá"
-msgstr "Chichén-Itzá"
+msgstr "Čičen Ica"
 
 #. A city in Oklahoma in the United States
 #: ../data/Locations.xml.in.h:1544
 msgid "Chickasha"
-msgstr "Chickasha"
+msgstr "Čikaša"
 
 #. A city in Peru
 #: ../data/Locations.xml.in.h:1546
 msgid "Chiclayo"
-msgstr "Chiclayo"
+msgstr "Čilajas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1548
 msgid "Chico"
-msgstr "Chico"
+msgstr "Čikas"
 
 #. A city in Massachusetts in the United States
 #: ../data/Locations.xml.in.h:1550
@@ -3546,12 +3546,12 @@ msgstr "Chicopee Falls"
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:1552
 msgid "Chignik"
-msgstr "Chignik"
+msgstr "Čignikas"
 
 #. A city in Texas in the United States
 #: ../data/Locations.xml.in.h:1554
 msgid "Childress"
-msgstr "Childress"
+msgstr "Čildresas"
 
 #. A city in Arizona in the United States
 #: ../data/Locations.xml.in.h:1556
@@ -3566,34 +3566,34 @@ msgstr "Čilė"
 #. A city in Missouri in the United States
 #: ../data/Locations.xml.in.h:1560
 msgid "Chillicothe"
-msgstr "Chillicothe"
+msgstr "Čilikotis"
 
 #. A city in Mozambique
 #: ../data/Locations.xml.in.h:1562
 msgid "Chimoio"
-msgstr "Chimoio"
+msgstr "Šimojas"
 
 #. CN - China. (The official ISO 3166 short English name does
 #. not include "The People's Republic of".)
 #.
 #: ../data/Locations.xml.in.h:1566
 msgid "China"
-msgstr "China"
+msgstr "Kinija"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1568
 msgid "China Lake"
-msgstr "China Lake"
+msgstr "Kinų ežeras"
 
 #. A city in Nicaragua
 #: ../data/Locations.xml.in.h:1570
 msgid "Chinandega"
-msgstr "Chinandega"
+msgstr "Činandega"
 
 #. A city in Virginia in the United States
 #: ../data/Locations.xml.in.h:1572
 msgid "Chincoteague"
-msgstr "Chincoteague"
+msgstr "Šinkotigas"
 
 #. A city in Zambia
 #: ../data/Locations.xml.in.h:1574
@@ -3603,71 +3603,71 @@ msgstr "Chinganze"
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1576
 msgid "Chino"
-msgstr "Chino"
+msgstr "Činas"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:1578
 msgid "Chisana"
-msgstr "Chisana"
+msgstr "Čisana"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:1580
 msgid "Chistochina"
-msgstr "Chistochina"
+msgstr "Čistočina"
 
 #. A city in Russia.
 #. The local name in Russian is "Чита".
 #.
 #: ../data/Locations.xml.in.h:1584
 msgid "Chita"
-msgstr "Chita"
+msgstr "Čita"
 
 #. A city in Japan
 #: ../data/Locations.xml.in.h:1586
 msgid "Chitose"
-msgstr "Chitose"
+msgstr "Čitosė"
 
 #. A city in Bangladesh.
 #. The local name in Bengali is "চট্টগ্রাম".
 #.
 #: ../data/Locations.xml.in.h:1590
 msgid "Chittagong"
-msgstr "Chittagong"
+msgstr "Čitagongas"
 
 #. A city in Hainaut in Belgium
 #: ../data/Locations.xml.in.h:1592
 msgid "Chièvres"
-msgstr "Chièvres"
+msgstr "Šjevras"
 
 #. The capital of Moldova
 #: ../data/Locations.xml.in.h:1594
 msgid "Chişinău"
-msgstr "Chişinău"
+msgstr "Kišiniovas"
 
 #. A city in Algeria
 #: ../data/Locations.xml.in.h:1596
 msgid "Chlef"
-msgstr "Chlef"
+msgstr "Šlefas"
 
 #. A city in Japan
 #: ../data/Locations.xml.in.h:1598
 msgid "Chofu"
-msgstr "Chofu"
+msgstr "Čiofu"
 
 #. A city in Thailand
 #: ../data/Locations.xml.in.h:1600
 msgid "Chon Buri"
-msgstr "Chon Buri"
+msgstr "Čon Buris"
 
 #. A city in New Zealand
 #: ../data/Locations.xml.in.h:1602
 msgid "Christchurch"
-msgstr "Christchurch"
+msgstr "Kraistčerčas"
 
 #. A city in the United States Virgin Islands
 #: ../data/Locations.xml.in.h:1604
 msgid "Christiansted"
-msgstr "Christiansted"
+msgstr "Krisčenstedas"
 
 #. CX - Christmas Island, a territory of Australia in the
 #. Indian Ocean, not to be confused with various other islands
@@ -3675,24 +3675,24 @@ msgstr "Christiansted"
 #.
 #: ../data/Locations.xml.in.h:1609
 msgid "Christmas Island"
-msgstr "Christmas Island"
+msgstr "Kalėdų sala"
 
 #. A city in Greece
 #: ../data/Locations.xml.in.h:1611
 msgid "Chrysoúpolis"
-msgstr "Chrysoúpolis"
+msgstr "Chrisupolis"
 
 #. A city in Russia.
 #. The local name in Russian is "Чульман".
 #.
 #: ../data/Locations.xml.in.h:1615
 msgid "Chul'man"
-msgstr "Chul'man"
+msgstr "Čiulmanas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1617
 msgid "Chula Vista"
-msgstr "Chula Vista"
+msgstr "Čula Vista"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:1619
@@ -3707,7 +3707,7 @@ msgstr "Church Fenton"
 #. A city in Manitoba in Canada
 #: ../data/Locations.xml.in.h:1623
 msgid "Churchill"
-msgstr "Churchill"
+msgstr "Čerčilis"
 
 #. A city in France.
 #. One of several cities in France called "Châlons".
