@@ -3714,17 +3714,17 @@ msgstr "Čerčilis"
 #.
 #: ../data/Locations.xml.in.h:1627
 msgid "Châlons-en-Champagne"
-msgstr "Châlons-en-Champagne"
+msgstr "Šampanės Šalonas"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:1629
 msgid "Châteaudun"
-msgstr "Châteaudun"
+msgstr "Šatodenas"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:1631
 msgid "Châteauroux"
-msgstr "Châteauroux"
+msgstr "Šatoru"
 
 #. A city in Nova Scotia in Canada
 #: ../data/Locations.xml.in.h:1633
@@ -3736,83 +3736,83 @@ msgstr "Chéticamp"
 #.
 #: ../data/Locations.xml.in.h:1637
 msgid "Chíos"
-msgstr "Chíos"
+msgstr "Chijas"
 
 #. A city in Cuba
 #: ../data/Locations.xml.in.h:1639
 msgid "Cienfuegos"
-msgstr "Cienfuegos"
+msgstr "Sjenfuegosas"
 
 #. A city in Ohio in the United States
 #: ../data/Locations.xml.in.h:1641
 msgid "Cincinnati"
-msgstr "Cincinatis"
+msgstr "Sinsinatis"
 
 #. A city in Aguascalientes in Mexico
 #: ../data/Locations.xml.in.h:1643
 msgctxt "City in Aguascalientes, Mexico"
 msgid "Aguascalientes"
-msgstr "Aguascalientes"
+msgstr "Aguaskaljentesas"
 
 #. A city in Alabama in the United States
 #: ../data/Locations.xml.in.h:1645
 msgctxt "City in Alabama, United States"
 msgid "Auburn"
-msgstr "Auburn"
+msgstr "Obernas"
 
 #. A city in Alabama in the United States
 #: ../data/Locations.xml.in.h:1647
 msgctxt "City in Alabama, United States"
 msgid "Birmingham"
-msgstr "Birmingemas"
+msgstr "Birmingamas"
 
 #. A city in Alabama in the United States
 #: ../data/Locations.xml.in.h:1649
 msgctxt "City in Alabama, United States"
 msgid "Decatur"
-msgstr "Decatur"
+msgstr "Dekeiteris"
 
 #. A city in Alabama in the United States
 #: ../data/Locations.xml.in.h:1651
 msgctxt "City in Alabama, United States"
 msgid "Huntsville"
-msgstr "Huntsville"
+msgstr "Hantsvilis"
 
 #. A city in Alabama in the United States
 #: ../data/Locations.xml.in.h:1653
 msgctxt "City in Alabama, United States"
 msgid "Montgomery"
-msgstr "Montgomery"
+msgstr "Montgomeris"
 
 #. A city in Alabama in the United States
 #: ../data/Locations.xml.in.h:1655
 msgctxt "City in Alabama, United States"
 msgid "Troy"
-msgstr "Troy"
+msgstr "Troja"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:1657
 msgctxt "City in Alaska, United States"
 msgid "Alpine"
-msgstr "Alpine"
+msgstr "Alpainas"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:1659
 msgctxt "City in Alaska, United States"
 msgid "Eagle"
-msgstr "Eagle"
+msgstr "Iglas"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:1661
 msgctxt "City in Alaska, United States"
 msgid "Juneau"
-msgstr "Juneau"
+msgstr "Džunas"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:1663
 msgctxt "City in Alaska, United States"
 msgid "Petersburg"
-msgstr "Peterburgas"
+msgstr "Pitersbergas"
 
 #. A city in Alaska in the United States
 #: ../data/Locations.xml.in.h:1665
@@ -3830,13 +3830,13 @@ msgstr "Satonas"
 #: ../data/Locations.xml.in.h:1669
 msgctxt "City in Alberta, Canada"
 msgid "Jasper"
-msgstr "Jasper"
+msgstr "Džasperis"
 
 #. The capital of Antigua and Barbuda
 #: ../data/Locations.xml.in.h:1671
 msgctxt "City in Antigua and Barbuda"
 msgid "Saint John's"
-msgstr "Saint John's"
+msgstr "Sent Džonsas"
 
 #. A city in Antwerp in Belgium.
 #. "Antwerp" is the traditional English name.
@@ -3845,7 +3845,7 @@ msgstr "Saint John's"
 #: ../data/Locations.xml.in.h:1676
 msgctxt "City in Antwerp, Belgium"
 msgid "Antwerp"
-msgstr "Antwerp"
+msgstr "Antverpenas"
 
 #. A city in Argentina
 #: ../data/Locations.xml.in.h:1678
@@ -3857,73 +3857,73 @@ msgstr "Kordoba"
 #: ../data/Locations.xml.in.h:1680
 msgctxt "City in Argentina"
 msgid "San Fernando"
-msgstr "San Fernando"
+msgstr "San Fernandas"
 
 #. A city in Arizona in the United States
 #: ../data/Locations.xml.in.h:1682
 msgctxt "City in Arizona, United States"
 msgid "Chandler"
-msgstr "Chandler"
+msgstr "Čandleris"
 
 #. A city in Arizona in the United States
 #: ../data/Locations.xml.in.h:1684
 msgctxt "City in Arizona, United States"
 msgid "Douglas"
-msgstr "Douglas"
+msgstr "Daglasas"
 
 #. A city in Arizona in the United States
 #: ../data/Locations.xml.in.h:1686
 msgctxt "City in Arizona, United States"
 msgid "Glendale"
-msgstr "Glendale"
+msgstr "Glendeilis"
 
 #. A city in Arizona in the United States
 #: ../data/Locations.xml.in.h:1688
 msgctxt "City in Arizona, United States"
 msgid "Peoria"
-msgstr "Peoria"
+msgstr "Peorija"
 
 #. A city in Arkansas in the United States
 #: ../data/Locations.xml.in.h:1690
 msgctxt "City in Arkansas, United States"
 msgid "Fayetteville"
-msgstr "Fayetteville"
+msgstr "Fajetvilis"
 
 #. A city in Arkansas in the United States
 #: ../data/Locations.xml.in.h:1692
 msgctxt "City in Arkansas, United States"
 msgid "Fort Smith"
-msgstr "Fort Smith"
+msgstr "Fort Smitas"
 
 #. A city in Arkansas in the United States
 #: ../data/Locations.xml.in.h:1694
 msgctxt "City in Arkansas, United States"
 msgid "Hot Springs"
-msgstr "Hot Springs"
+msgstr "Hot Springsas"
 
 #. A city in Arkansas in the United States
 #: ../data/Locations.xml.in.h:1696
 msgctxt "City in Arkansas, United States"
 msgid "Monticello"
-msgstr "Monticello"
+msgstr "Montiselas"
 
 #. A city in Arkansas in the United States
 #: ../data/Locations.xml.in.h:1698
 msgctxt "City in Arkansas, United States"
 msgid "Mountain Home"
-msgstr "Mountain Home"
+msgstr "Mauntin Homas"
 
 #. A city in Arkansas in the United States
 #: ../data/Locations.xml.in.h:1700
 msgctxt "City in Arkansas, United States"
 msgid "Newport"
-msgstr "Newport"
+msgstr "Niuportas"
 
 #. A city in Arkansas in the United States
 #: ../data/Locations.xml.in.h:1702
 msgctxt "City in Arkansas, United States"
 msgid "Stuttgart"
-msgstr "Štutgartas"
+msgstr "Stutgartas"
 
 #. A city in Baden-Württemberg in Germany
 #: ../data/Locations.xml.in.h:1704
@@ -3935,19 +3935,19 @@ msgstr "Štutgartas"
 #: ../data/Locations.xml.in.h:1706
 msgctxt "City in Bahamas"
 msgid "Freeport"
-msgstr "Freeport"
+msgstr "Friportas"
 
 #. A city in the Bahamas
 #: ../data/Locations.xml.in.h:1708
 msgctxt "City in Bahamas"
 msgid "Georgetown"
-msgstr "Georgetown"
+msgstr "Džordžtaunas"
 
 #. A city in Baja California Sur in Mexico
 #: ../data/Locations.xml.in.h:1710
 msgctxt "City in Baja California Sur, Mexico"
 msgid "La Paz"
-msgstr "La Paz"
+msgstr "La Pasas"
 
 #. The capital of China
 #: ../data/Locations.xml.in.h:1712
@@ -3977,19 +3977,19 @@ msgstr "Hamiltonas"
 #: ../data/Locations.xml.in.h:1720
 msgctxt "City in Bermuda"
 msgid "Saint George"
-msgstr "Saint George"
+msgstr "Sent Džordžas"
 
 #. A city in Bolivia
 #: ../data/Locations.xml.in.h:1722
 msgctxt "City in Bolivia"
 msgid "Concepción"
-msgstr "Concepción"
+msgstr "Konsepsjonas"
 
 #. The capital of Bolivia
 #: ../data/Locations.xml.in.h:1724
 msgctxt "City in Bolivia"
 msgid "La Paz"
-msgstr "La Paz"
+msgstr "La Pasas"
 
 #. A city in Bolivia
 #: ../data/Locations.xml.in.h:1726
