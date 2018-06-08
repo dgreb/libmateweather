@@ -4007,25 +4007,25 @@ msgstr "Brėmenas"
 #: ../data/Locations.xml.in.h:1730
 msgctxt "City in British Columbia, Canada"
 msgid "Clinton"
-msgstr "Clinton"
+msgstr "Klintonas"
 
 #. A city in British Columbia in Canada
 #: ../data/Locations.xml.in.h:1732
 msgctxt "City in British Columbia, Canada"
 msgid "Creston"
-msgstr "Creston"
+msgstr "Krestonas"
 
 #. A city in British Columbia in Canada
 #: ../data/Locations.xml.in.h:1734
 msgctxt "City in British Columbia, Canada"
 msgid "Natal"
-msgstr "Natal"
+msgstr "Natalis"
 
 #. A city in British Columbia in Canada
 #: ../data/Locations.xml.in.h:1736
 msgctxt "City in British Columbia, Canada"
 msgid "Princeton"
-msgstr "Princeton"
+msgstr "Prinstonas"
 
 #. A city in British Columbia in Canada
 #: ../data/Locations.xml.in.h:1738
@@ -4037,7 +4037,7 @@ msgstr "Vankuveris"
 #: ../data/Locations.xml.in.h:1740
 msgctxt "City in British Columbia, Canada"
 msgid "Vernon"
-msgstr "Vernon"
+msgstr "Vernonas"
 
 #. A city in British Columbia in Canada
 #: ../data/Locations.xml.in.h:1742
@@ -4049,55 +4049,55 @@ msgstr "Viktorija"
 #: ../data/Locations.xml.in.h:1744
 msgctxt "City in California, United States"
 msgid "Auburn"
-msgstr "Auburn"
+msgstr "Obernas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1746
 msgctxt "City in California, United States"
 msgid "Carlsbad"
-msgstr "Carlsbad"
+msgstr "Karlsbadas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1748
 msgctxt "City in California, United States"
 msgid "Concord"
-msgstr "Concord"
+msgstr "Konkordas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1750
 msgctxt "City in California, United States"
 msgid "Corona"
-msgstr "Corona"
+msgstr "Korona"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1752
 msgctxt "City in California, United States"
 msgid "Fairfield"
-msgstr "Fairfield"
+msgstr "Ferfildas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1754
 msgctxt "City in California, United States"
 msgid "Fremont"
-msgstr "Fremont"
+msgstr "Frimontas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1756
 msgctxt "City in California, United States"
 msgid "Glendale"
-msgstr "Glendale"
+msgstr "Glendeilis"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1758
 msgctxt "City in California, United States"
 msgid "Hanford"
-msgstr "Hanford"
+msgstr "Hanfordas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1760
 msgctxt "City in California, United States"
 msgid "Hayward"
-msgstr "Hayward"
+msgstr "Heivardas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1762
@@ -4109,25 +4109,25 @@ msgstr "Imperial"
 #: ../data/Locations.xml.in.h:1764
 msgctxt "City in California, United States"
 msgid "Lancaster"
-msgstr "Lancaster"
+msgstr "Lankasteris"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1766
 msgctxt "City in California, United States"
 msgid "Marysville"
-msgstr "Marysville"
+msgstr "Merisvilis"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1768
 msgctxt "City in California, United States"
 msgid "Ontario"
-msgstr "Ontario"
+msgstr "Ontarijas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1770
 msgctxt "City in California, United States"
 msgid "Orange"
-msgstr "Orange"
+msgstr "Orindžas"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1772
@@ -4139,13 +4139,13 @@ msgstr "Pasadena"
 #: ../data/Locations.xml.in.h:1774
 msgctxt "City in California, United States"
 msgid "Santa Clara"
-msgstr "Santa Clara"
+msgstr "Santa Klara"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1776
 msgctxt "City in California, United States"
 msgid "Santa Maria"
-msgstr "Santa Maria"
+msgstr "Santa Marija"
 
 #. A city in California in the United States
 #: ../data/Locations.xml.in.h:1778
@@ -4157,31 +4157,31 @@ msgstr "Stoktonas"
 #: ../data/Locations.xml.in.h:1780
 msgctxt "City in Campeche, Mexico"
 msgid "Campeche"
-msgstr "Campeche"
+msgstr "Kampečė"
 
 #. The capital of the Cayman Islands
 #: ../data/Locations.xml.in.h:1782
 msgctxt "City in Cayman Islands"
 msgid "George Town"
-msgstr "George Town"
+msgstr "Džordž Taunas"
 
 #. A city in Chihuahua in Mexico
 #: ../data/Locations.xml.in.h:1784
 msgctxt "City in Chihuahua, Mexico"
 msgid "Chihuahua"
-msgstr "Chihuahua"
+msgstr "Čihuahua"
 
 #. A city in Chile
 #: ../data/Locations.xml.in.h:1786
 msgctxt "City in Chile"
 msgid "Concepción"
-msgstr "Concepción"
+msgstr "Konsepsjonas"
 
 #. The capital of Chile
 #: ../data/Locations.xml.in.h:1788
 msgctxt "City in Chile"
 msgid "Santiago"
-msgstr "Santiagas"
+msgstr "Santjagas"
 
 #. A city in Chongqing in China.
 #. The name is also written "重庆".
@@ -4189,37 +4189,37 @@ msgstr "Santiagas"
 #: ../data/Locations.xml.in.h:1792
 msgctxt "City in Chongqing, China"
 msgid "Chongqing"
-msgstr "Chongqing"
+msgstr "Čongčingas"
 
 #. A city in Colima in Mexico
 #: ../data/Locations.xml.in.h:1794
 msgctxt "City in Colima, Mexico"
 msgid "Colima"
-msgstr "Colima"
+msgstr "Kolima"
 
 #. A city in Colima in Mexico
 #: ../data/Locations.xml.in.h:1796
 msgctxt "City in Colima, Mexico"
 msgid "Manzanillo"
-msgstr "Manzanillo"
+msgstr "Mansaniljas"
 
 #. A city in Colorado in the United States
 #: ../data/Locations.xml.in.h:1798
 msgctxt "City in Colorado, United States"
 msgid "Akron"
-msgstr "Akron"
+msgstr "Akronas"
 
 #. A city in Colorado in the United States
 #: ../data/Locations.xml.in.h:1800
 msgctxt "City in Colorado, United States"
 msgid "Aurora"
-msgstr "Aurora"
+msgstr "Orora"
 
 #. A city in Colorado in the United States
 #: ../data/Locations.xml.in.h:1802
 msgctxt "City in Colorado, United States"
 msgid "Burlington"
-msgstr "Burlington"
+msgstr "Berlingtonas"
 
 #. A city in Colorado in the United States
 #: ../data/Locations.xml.in.h:1804
@@ -4231,13 +4231,13 @@ msgstr "Kardifas"
 #: ../data/Locations.xml.in.h:1806
 msgctxt "City in Colorado, United States"
 msgid "Durango"
-msgstr "Durango"
+msgstr "Durangas"
 
 #. A city in Colorado in the United States
 #: ../data/Locations.xml.in.h:1808
 msgctxt "City in Colorado, United States"
 msgid "Eagle"
-msgstr "Eagle"
+msgstr "Iglas"
 
 #. A city in Colorado in the United States
 #: ../data/Locations.xml.in.h:1810
@@ -4255,7 +4255,7 @@ msgstr "Trinidadas"
 #: ../data/Locations.xml.in.h:1814
 msgctxt "City in Connecticut, United States"
 msgid "Oxford"
-msgstr "Oxford"
+msgstr "Oksfordas"
 
 #. A city in Costa Rica
 #: ../data/Locations.xml.in.h:1816
@@ -4267,19 +4267,19 @@ msgstr "Liberija"
 #: ../data/Locations.xml.in.h:1818
 msgctxt "City in Cuba"
 msgid "Manzanillo"
-msgstr "Manzanillo"
+msgstr "Mansaniljas"
 
 #. A city in Delaware in the United States
 #: ../data/Locations.xml.in.h:1820
 msgctxt "City in Delaware, United States"
 msgid "Georgetown"
-msgstr "Georgetown"
+msgstr "Džordžtaunas"
 
 #. A city in Delaware in the United States
 #: ../data/Locations.xml.in.h:1822
 msgctxt "City in Delaware, United States"
 msgid "Wilmington"
-msgstr "Wilmington"
+msgstr "Vilmingtonas"
 
 #. The capital of the United States
 #: ../data/Locations.xml.in.h:1824
@@ -4291,25 +4291,25 @@ msgstr "Vašingtonas"
 #: ../data/Locations.xml.in.h:1826
 msgctxt "City in Djibouti"
 msgid "Djibouti"
-msgstr "Djibouti"
+msgstr "Džibutis"
 
 #. The capital of Dominica
 #: ../data/Locations.xml.in.h:1828
 msgctxt "City in Dominica"
 msgid "Roseau"
-msgstr "Roseau"
+msgstr "Rozo"
 
 #. A city in the Dominican Republic
 #: ../data/Locations.xml.in.h:1830
 msgctxt "City in Dominican Republic"
 msgid "Santiago"
-msgstr "Santiagas"
+msgstr "Santjagas"
 
 #. A city in Durango in Mexico
 #: ../data/Locations.xml.in.h:1832
 msgctxt "City in Durango, Mexico"
 msgid "Durango"
-msgstr "Durango"
+msgstr "Durangas"
 
 #. A city in East and South East England in the United
 #. Kingdom
@@ -4317,7 +4317,7 @@ msgstr "Durango"
 #: ../data/Locations.xml.in.h:1836
 msgctxt "City in East and South East England, United Kingdom"
 msgid "Benson"
-msgstr "Benson"
+msgstr "Bensonas"
 
 #. A city in East and South East England in the United
 #. Kingdom
@@ -4339,7 +4339,7 @@ msgstr "Londonas"
 #: ../data/Locations.xml.in.h:1846
 msgctxt "City in East and South East England, United Kingdom"
 msgid "Southend"
-msgstr "Southend"
+msgstr "Sautendas"
 
 #. A city in Egypt.
 #. "Alexandria" is the traditional English name.
@@ -4369,25 +4369,25 @@ msgstr "Stenlis"
 #: ../data/Locations.xml.in.h:1860
 msgctxt "City in Florida, United States"
 msgid "Gainesville"
-msgstr "Gainesville"
+msgstr "Geinsvilis"
 
 #. A city in Florida in the United States
 #: ../data/Locations.xml.in.h:1862
 msgctxt "City in Florida, United States"
 msgid "Jacksonville"
-msgstr "Jacksonville"
+msgstr "Džeksonvilis"
 
 #. A city in Florida in the United States
 #: ../data/Locations.xml.in.h:1864
 msgctxt "City in Florida, United States"
 msgid "Leesburg"
-msgstr "Leesburg"
+msgstr "Lisbergas"
 
 #. A city in Florida in the United States
 #: ../data/Locations.xml.in.h:1866
 msgctxt "City in Florida, United States"
 msgid "Melbourne"
-msgstr "Melbourne"
+msgstr "Melburnas"
 
 #. A city in Florida in the United States
 #: ../data/Locations.xml.in.h:1868
@@ -4399,7 +4399,7 @@ msgstr "Majamis"
 #: ../data/Locations.xml.in.h:1870
 msgctxt "City in Florida, United States"
 msgid "Naples"
-msgstr "Naples"
+msgstr "Neiplsas"
 
 #. A city in Florida in the United States
 #: ../data/Locations.xml.in.h:1872
@@ -4411,7 +4411,7 @@ msgstr "Springfildas"
 #: ../data/Locations.xml.in.h:1874
 msgctxt "City in Florida, United States"
 msgid "Valparaiso"
-msgstr "Valparaiso"
+msgstr "Valpareizas"
 
 #. A city in France
 #: ../data/Locations.xml.in.h:1876
@@ -4429,7 +4429,7 @@ msgstr "Brestas"
 #: ../data/Locations.xml.in.h:1880
 msgctxt "City in France"
 msgid "Orange"
-msgstr "Orange"
+msgstr "Oranžas"
 
 #. The capital of France
 #: ../data/Locations.xml.in.h:1882
@@ -4441,13 +4441,13 @@ msgstr "Paryžius"
 #: ../data/Locations.xml.in.h:1884
 msgctxt "City in France"
 msgid "Vichy"
-msgstr "Vichy"
+msgstr "Viši"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1886
 msgctxt "City in Georgia, United States"
 msgid "Albany"
-msgstr "Albanija"
+msgstr "Olbanis"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1888
@@ -4459,31 +4459,31 @@ msgstr "Alma"
 #: ../data/Locations.xml.in.h:1890
 msgctxt "City in Georgia, United States"
 msgid "Athens"
-msgstr "Atėnai"
+msgstr "Atensas"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1892
 msgctxt "City in Georgia, United States"
 msgid "Augusta"
-msgstr "Augusta"
+msgstr "Ogasta"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1894
 msgctxt "City in Georgia, United States"
 msgid "Brunswick"
-msgstr "Brunswick"
+msgstr "Bransvikas"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1896
 msgctxt "City in Georgia, United States"
 msgid "Columbus"
-msgstr "Columbus"
+msgstr "Kolambasas"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1898
 msgctxt "City in Georgia, United States"
 msgid "Douglas"
-msgstr "Douglas"
+msgstr "Daglasas"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1900
@@ -4495,31 +4495,31 @@ msgstr "Dublinas"
 #: ../data/Locations.xml.in.h:1902
 msgctxt "City in Georgia, United States"
 msgid "Gainesville"
-msgstr "Gainesville"
+msgstr "Geinsvilis"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1904
 msgctxt "City in Georgia, United States"
 msgid "Greensboro"
-msgstr "Greensboro"
+msgstr "Grinsboras"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1906
 msgctxt "City in Georgia, United States"
 msgid "La Grange"
-msgstr "La Grange"
+msgstr "La Greindžas"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1908
 msgctxt "City in Georgia, United States"
 msgid "Lawrenceville"
-msgstr "Lawrenceville"
+msgstr "Lorensvilis"
 
 #. A city in Georgia in the United States
 #: ../data/Locations.xml.in.h:1910
 msgctxt "City in Georgia, United States"
 msgid "Rome"
-msgstr "Rome"
+msgstr "Romas"
 
 #. The capital of Gibraltar
 #: ../data/Locations.xml.in.h:1912
@@ -4540,19 +4540,19 @@ msgstr "Atėnai"
 #: ../data/Locations.xml.in.h:1919
 msgctxt "City in Guanajuato, Mexico"
 msgid "León"
-msgstr "León"
+msgstr "Leonas"
 
 #. The capital of Guatemala
 #: ../data/Locations.xml.in.h:1921
 msgctxt "City in Guatemala"
 msgid "Guatemala"
-msgstr "Guatemala"
+msgstr "Gvatemala"
 
 #. The capital of Guyana
 #: ../data/Locations.xml.in.h:1923
 msgctxt "City in Guyana"
 msgid "Georgetown"
-msgstr "Georgetown"
+msgstr "Džordžtaunas"
 
 #. A city in Hamburg in Germany
 #: ../data/Locations.xml.in.h:1925
@@ -4564,13 +4564,13 @@ msgstr "Hamburgas"
 #: ../data/Locations.xml.in.h:1927
 msgctxt "City in Idaho, United States"
 msgid "Caldwell"
-msgstr "Caldwell"
+msgstr "Koldvelis"
 
 #. A city in Idaho in the United States
 #: ../data/Locations.xml.in.h:1929
 msgctxt "City in Idaho, United States"
 msgid "Lowell"
-msgstr "Lowell"
+msgstr "Louelis"
 
 #. A city in Idaho in the United States
 #: ../data/Locations.xml.in.h:1931
@@ -4582,13 +4582,13 @@ msgstr "Malta"
 #: ../data/Locations.xml.in.h:1933
 msgctxt "City in Idaho, United States"
 msgid "Moscow"
-msgstr "Moscow"
+msgstr "Moskou"
 
 #. A city in Idaho in the United States
 #: ../data/Locations.xml.in.h:1935
 msgctxt "City in Idaho, United States"
 msgid "Mountain Home"
-msgstr "Mountain Home"
+msgstr "Mauntin Homas"
 
 #. A city in Idaho in the United States
 #: ../data/Locations.xml.in.h:1937
@@ -4600,13 +4600,13 @@ msgstr "Stenlis"
 #: ../data/Locations.xml.in.h:1939
 msgctxt "City in Illinois, United States"
 msgid "Aurora"
-msgstr "Aurora"
+msgstr "Orora"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1941
 msgctxt "City in Illinois, United States"
 msgid "Bloomington"
-msgstr "Bloomington"
+msgstr "Blumingtonas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1943
@@ -4624,61 +4624,61 @@ msgstr "Danville"
 #: ../data/Locations.xml.in.h:1947
 msgctxt "City in Illinois, United States"
 msgid "Decatur"
-msgstr "Decatur"
+msgstr "Dekeiteris"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1949
 msgctxt "City in Illinois, United States"
 msgid "Fairfield"
-msgstr "Fairfield"
+msgstr "Feirfildas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1951
 msgctxt "City in Illinois, United States"
 msgid "Freeport"
-msgstr "Freeport"
+msgstr "Friportas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1953
 msgctxt "City in Illinois, United States"
 msgid "Harrisburg"
-msgstr "Harrisburg"
+msgstr "Harisbergas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1955
 msgctxt "City in Illinois, United States"
 msgid "Jacksonville"
-msgstr "Jacksonville"
+msgstr "Džeksonvilis"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1957
 msgctxt "City in Illinois, United States"
 msgid "Lawrenceville"
-msgstr "Lawrenceville"
+msgstr "Lorensvilis"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1959
 msgctxt "City in Illinois, United States"
 msgid "Lincoln"
-msgstr "Lincoln"
+msgstr "Linkolnas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1961
 msgctxt "City in Illinois, United States"
 msgid "Litchfield"
-msgstr "Litchfield"
+msgstr "Ličfildas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1963
 msgctxt "City in Illinois, United States"
 msgid "Marion"
-msgstr "Marion"
+msgstr "Marionas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1965
 msgctxt "City in Illinois, United States"
 msgid "Morris"
-msgstr "Morris"
+msgstr "Morisas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1967
@@ -4690,7 +4690,7 @@ msgstr "Paryžius"
 #: ../data/Locations.xml.in.h:1969
 msgctxt "City in Illinois, United States"
 msgid "Peoria"
-msgstr "Peoria"
+msgstr "Peorija"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1971
@@ -4702,19 +4702,19 @@ msgstr "Peru"
 #: ../data/Locations.xml.in.h:1973
 msgctxt "City in Illinois, United States"
 msgid "Pittsfield"
-msgstr "Pittsfield"
+msgstr "Pitsfildas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1975
 msgctxt "City in Illinois, United States"
 msgid "Pontiac"
-msgstr "Pontiac"
+msgstr "Pontiakas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1977
 msgctxt "City in Illinois, United States"
 msgid "Salem"
-msgstr "Salem"
+msgstr "Salemas"
 
 #. A city in Illinois in the United States
 #: ../data/Locations.xml.in.h:1979
@@ -4732,31 +4732,31 @@ msgstr "Springfildas"
 #: ../data/Locations.xml.in.h:1983
 msgctxt "City in Indiana, United States"
 msgid "Anderson"
-msgstr "Anderson"
+msgstr "Andersonas"
 
 #. A city in Indiana in the United States
 #: ../data/Locations.xml.in.h:1985
 msgctxt "City in Indiana, United States"
 msgid "Bloomington"
-msgstr "Bloomington"
+msgstr "Blumingtonas"
 
 #. A city in Indiana in the United States
 #: ../data/Locations.xml.in.h:1987
 msgctxt "City in Indiana, United States"
 msgid "Columbus"
-msgstr "Columbus"
+msgstr "Kolambusas"
 
 #. A city in Indiana in the United States
 #: ../data/Locations.xml.in.h:1989
 msgctxt "City in Indiana, United States"
 msgid "Elkhart"
-msgstr "Elkhart"
+msgstr "Elkartas"
 
 #. A city in Indiana in the United States
 #: ../data/Locations.xml.in.h:1991
 msgctxt "City in Indiana, United States"
 msgid "Lafayette"
-msgstr "Lafayette"
+msgstr "Lafajetas"
 
 #. A city in Indiana in the United States
 #: ../data/Locations.xml.in.h:1993
@@ -4768,67 +4768,67 @@ msgstr "Peru"
 #: ../data/Locations.xml.in.h:1995
 msgctxt "City in Indiana, United States"
 msgid "Valparaiso"
-msgstr "Valparaiso"
+msgstr "Valpareizas"
 
 #. A city in Indiana in the United States
 #: ../data/Locations.xml.in.h:1997
 msgctxt "City in Indiana, United States"
 msgid "Warsaw"
-msgstr "Warsaw"
+msgstr "Vorsas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:1999
 msgctxt "City in Iowa, United States"
 msgid "Atlantic"
-msgstr "Atlantic"
+msgstr "Atlantikas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:2001
 msgctxt "City in Iowa, United States"
 msgid "Boone"
-msgstr "Boone"
+msgstr "Bunas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:2003
 msgctxt "City in Iowa, United States"
 msgid "Burlington"
-msgstr "Burlington"
+msgstr "Berlingtonas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:2005
 msgctxt "City in Iowa, United States"
 msgid "Clinton"
-msgstr "Clinton"
+msgstr "Klintonas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:2007
 msgctxt "City in Iowa, United States"
 msgid "Creston"
-msgstr "Creston"
+msgstr "Krestonas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:2009
 msgctxt "City in Iowa, United States"
 msgid "Fairfield"
-msgstr "Fairfield"
+msgstr "Ferfildas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:2011
 msgctxt "City in Iowa, United States"
 msgid "Knoxville"
-msgstr "Knoxville"
+msgstr "Noksvilis"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:2013
 msgctxt "City in Iowa, United States"
 msgid "Monticello"
-msgstr "Monticello"
+msgstr "Montiselas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:2015
 msgctxt "City in Iowa, United States"
 msgid "Mount Pleasant"
-msgstr "Mount Pleasant"
+msgstr "Maunt Plezantas"
 
 #. A city in Iowa in the United States
 #: ../data/Locations.xml.in.h:2017
@@ -4854,7 +4854,7 @@ msgstr "Dublinas"
 #: ../data/Locations.xml.in.h:2025
 msgctxt "City in Isle of Man"
 msgid "Douglas"
-msgstr "Douglas"
+msgstr "Daglasas"
 
 #. A city in Italy.
 #. "Florence" is the traditional English name.
@@ -4887,31 +4887,31 @@ msgstr "Roma"
 #: ../data/Locations.xml.in.h:2042
 msgctxt "City in Jamaica"
 msgid "Kingston"
-msgstr "Kingston"
+msgstr "Kingstonas"
 
 #. A city in Kansas in the United States
 #: ../data/Locations.xml.in.h:2044
 msgctxt "City in Kansas, United States"
 msgid "Elkhart"
-msgstr "Elkhart"
+msgstr "Elkartas"
 
 #. A city in Kansas in the United States
 #: ../data/Locations.xml.in.h:2046
 msgctxt "City in Kansas, United States"
 msgid "Emporia"
-msgstr "Emporia"
+msgstr "Emporija"
 
 #. A city in Kansas in the United States
 #: ../data/Locations.xml.in.h:2048
 msgctxt "City in Kansas, United States"
 msgid "Garden City"
-msgstr "Garden City"
+msgstr "Garden Sitis"
 
 #. A city in Kansas in the United States
 #: ../data/Locations.xml.in.h:2050
 msgctxt "City in Kansas, United States"
 msgid "Hutchinson"
-msgstr "Hutchinson"
+msgstr "Hačinsonas"
 
 #. A city in Kansas in the United States
 #: ../data/Locations.xml.in.h:2052
@@ -4923,7 +4923,7 @@ msgstr "Kanzas sitis"
 #: ../data/Locations.xml.in.h:2054
 msgctxt "City in Kansas, United States"
 msgid "Lawrence"
-msgstr "Lawrence"
+msgstr "Lorensas"
 
 #. A city in Kentucky in the United States
 #: ../data/Locations.xml.in.h:2056
@@ -4941,19 +4941,19 @@ msgstr "Glazgas"
 #: ../data/Locations.xml.in.h:2060
 msgctxt "City in Kentucky, United States"
 msgid "Henderson"
-msgstr "Henderson"
+msgstr "Hendersonas"
 
 #. A city in Kentucky in the United States
 #: ../data/Locations.xml.in.h:2062
 msgctxt "City in Kentucky, United States"
 msgid "Jackson"
-msgstr "Jackson"
+msgstr "Džeksonas"
 
 #. A city in Kentucky in the United States
 #: ../data/Locations.xml.in.h:2064
 msgctxt "City in Kentucky, United States"
 msgid "Lexington"
-msgstr "Lexington"
+msgstr "Leksingtonas"
 
 #. A city in Kentucky in the United States
 #: ../data/Locations.xml.in.h:2066
@@ -4986,19 +4986,19 @@ msgstr "Aleksandrija"
 #: ../data/Locations.xml.in.h:2077
 msgctxt "City in Louisiana, United States"
 msgid "Garden City"
-msgstr "Garden City"
+msgstr "Garden Sitis"
 
 #. A city in Louisiana in the United States
 #: ../data/Locations.xml.in.h:2079
 msgctxt "City in Louisiana, United States"
 msgid "Lafayette"
-msgstr "Lafayette"
+msgstr "Lafajetas"
 
 #. A city in Louisiana in the United States
 #: ../data/Locations.xml.in.h:2081
 msgctxt "City in Louisiana, United States"
 msgid "Monroe"
-msgstr "Monroe"
+msgstr "Monro"
 
 #. The capital of Luxembourg
 #: ../data/Locations.xml.in.h:2083
@@ -5012,25 +5012,25 @@ msgstr "Liuksemburgas"
 #: ../data/Locations.xml.in.h:2087
 msgctxt "City in Macau"
 msgid "Macau"
-msgstr "Macau"
+msgstr "Makao"
 
 #. A city in Maine in the United States
 #: ../data/Locations.xml.in.h:2089
 msgctxt "City in Maine, United States"
 msgid "Auburn"
-msgstr "Auburn"
+msgstr "Obernas"
 
 #. A city in Maine in the United States
 #: ../data/Locations.xml.in.h:2091
 msgctxt "City in Maine, United States"
 msgid "Augusta"
-msgstr "Augusta"
+msgstr "Ogasta"
 
 #. A city in Maine in the United States
 #: ../data/Locations.xml.in.h:2093
 msgctxt "City in Maine, United States"
 msgid "Brunswick"
-msgstr "Brunswick"
+msgstr "Bransvikas"
 
 #. A city in Maine in the United States
 #: ../data/Locations.xml.in.h:2095
