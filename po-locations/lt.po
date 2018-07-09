@@ -5036,7 +5036,7 @@ msgstr "Bransvikas"
 #: ../data/Locations.xml.in.h:2095
 msgctxt "City in Maine, United States"
 msgid "Greenville"
-msgstr "Greenville"
+msgstr "Grinvilis"
 
 #. A city in Maine in the United States
 #: ../data/Locations.xml.in.h:2097
@@ -5048,13 +5048,13 @@ msgstr "Portlandas"
 #: ../data/Locations.xml.in.h:2099
 msgctxt "City in Maine, United States"
 msgid "Sanford"
-msgstr "Sanford"
+msgstr "Sanfordas"
 
 #. A city in Malaysia
 #: ../data/Locations.xml.in.h:2101
 msgctxt "City in Malaysia"
 msgid "George Town"
-msgstr "George Town"
+msgstr "Džordžtaunas"
 
 #. A city in Malaysia
 #: ../data/Locations.xml.in.h:2103
@@ -5066,7 +5066,7 @@ msgstr "Viktorija"
 #: ../data/Locations.xml.in.h:2105
 msgctxt "City in Manitoba, Canada"
 msgid "Grand Rapids"
-msgstr "Grand Rapids"
+msgstr "Grand Rapidsas"
 
 #. A city in Manitoba in Canada
 #: ../data/Locations.xml.in.h:2107
@@ -5078,19 +5078,19 @@ msgstr "Majamis"
 #: ../data/Locations.xml.in.h:2109
 msgctxt "City in Maryland, United States"
 msgid "Frederick"
-msgstr "Frederick"
+msgstr "Frederikas"
 
 #. A city in Maryland in the United States
 #: ../data/Locations.xml.in.h:2111
 msgctxt "City in Maryland, United States"
 msgid "Salisbury"
-msgstr "Salisbury"
+msgstr "Solsberis"
 
 #. A city in Massachusetts in the United States
 #: ../data/Locations.xml.in.h:2113
 msgctxt "City in Massachusetts, United States"
 msgid "Bedford"
-msgstr "Bedford"
+msgstr "Bedfordas"
 
 #. A city in Massachusetts in the United States
 #: ../data/Locations.xml.in.h:2115
@@ -5102,31 +5102,31 @@ msgstr "Kembridžas"
 #: ../data/Locations.xml.in.h:2117
 msgctxt "City in Massachusetts, United States"
 msgid "Lawrence"
-msgstr "Lawrence"
+msgstr "Lorensas"
 
 #. A city in Massachusetts in the United States
 #: ../data/Locations.xml.in.h:2119
 msgctxt "City in Massachusetts, United States"
 msgid "Lowell"
-msgstr "Lowell"
+msgstr "Louelis"
 
 #. A city in Massachusetts in the United States
 #: ../data/Locations.xml.in.h:2121
 msgctxt "City in Massachusetts, United States"
 msgid "Orange"
-msgstr "Orange"
+msgstr "Orindžas
 
 #. A city in Massachusetts in the United States
 #: ../data/Locations.xml.in.h:2123
 msgctxt "City in Massachusetts, United States"
 msgid "Pittsfield"
-msgstr "Pittsfield"
+msgstr "Pitsfildas"
 
 #. A city in Massachusetts in the United States
 #: ../data/Locations.xml.in.h:2125
 msgctxt "City in Massachusetts, United States"
 msgid "Plymouth"
-msgstr "Plymouth"
+msgstr "Plimutas"
 
 #. A city in Massachusetts in the United States
 #: ../data/Locations.xml.in.h:2127
@@ -5156,13 +5156,13 @@ msgstr "Frankfortas"
 #: ../data/Locations.xml.in.h:2135
 msgctxt "City in Michigan, United States"
 msgid "Grand Rapids"
-msgstr "Grand Rapids"
+msgstr "Grand Rapidsas"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:2137
 msgctxt "City in Michigan, United States"
 msgid "Jackson"
-msgstr "Jackson"
+msgstr "Džeksonas"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:2139
