@@ -5168,13 +5168,13 @@ msgstr "Džeksonas"
 #: ../data/Locations.xml.in.h:2139
 msgctxt "City in Michigan, United States"
 msgid "Marshall"
-msgstr "Marshall"
+msgstr "Maršalas"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:2141
 msgctxt "City in Michigan, United States"
 msgid "Marysville"
-msgstr "Marysville"
+msgstr "Marisvilis"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:2143
@@ -5186,13 +5186,13 @@ msgstr "Monroe"
 #: ../data/Locations.xml.in.h:2145
 msgctxt "City in Michigan, United States"
 msgid "Mount Pleasant"
-msgstr "Mount Pleasant"
+msgstr "Maunt Plezantas"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:2147
 msgctxt "City in Michigan, United States"
 msgid "Pontiac"
-msgstr "Pontiac"
+msgstr "Pontiakas"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:2149
@@ -5204,7 +5204,7 @@ msgstr "Saint James"
 #: ../data/Locations.xml.in.h:2151
 msgctxt "City in Michigan, United States"
 msgid "Troy"
-msgstr "Troy"
+msgstr "Troja"
 
 #. A city in Midlands in the United Kingdom
 #: ../data/Locations.xml.in.h:2153
@@ -5222,7 +5222,7 @@ msgstr "Aleksandrija"
 #: ../data/Locations.xml.in.h:2157
 msgctxt "City in Minnesota, United States"
 msgid "Appleton"
-msgstr "Appleton"
+msgstr "Apltonas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2159
@@ -5234,13 +5234,13 @@ msgstr "Austinas"
 #: ../data/Locations.xml.in.h:2161
 msgctxt "City in Minnesota, United States"
 msgid "Benson"
-msgstr "Benson"
+msgstr "Bensonas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2163
 msgctxt "City in Minnesota, United States"
 msgid "Buffalo"
-msgstr "Buffalo"
+msgstr "Bafalas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2165
@@ -5252,31 +5252,31 @@ msgstr "Kembridžas"
 #: ../data/Locations.xml.in.h:2167
 msgctxt "City in Minnesota, United States"
 msgid "Ely"
-msgstr "Ely"
+msgstr "Ilis"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2169
 msgctxt "City in Minnesota, United States"
 msgid "Grand Rapids"
-msgstr "Grand Rapids"
+msgstr "Grand Rapidsas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2171
 msgctxt "City in Minnesota, United States"
 msgid "Hutchinson"
-msgstr "Hutchinson"
+msgstr "Hačinsonas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2173
 msgctxt "City in Minnesota, United States"
 msgid "Jackson"
-msgstr "Jackson"
+msgstr "Džeksonas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2175
 msgctxt "City in Minnesota, United States"
 msgid "Litchfield"
-msgstr "Litchfield"
+msgstr "Ličfildas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2177
@@ -5288,37 +5288,37 @@ msgstr "Medisonas"
 #: ../data/Locations.xml.in.h:2179
 msgctxt "City in Minnesota, United States"
 msgid "Marshall"
-msgstr "Marshall"
+msgstr "Maršalas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2181
 msgctxt "City in Minnesota, United States"
 msgid "Montevideo"
-msgstr "Montevideo"
+msgstr "Montevidejas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2183
 msgctxt "City in Minnesota, United States"
 msgid "Morris"
-msgstr "Morris"
+msgstr "Morisas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2185
 msgctxt "City in Minnesota, United States"
 msgid "Princeton"
-msgstr "Princeton"
+msgstr "Prinstonas"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2187
 msgctxt "City in Minnesota, United States"
 msgid "Rochester"
-msgstr "Rochester"
+msgstr "Ročesteris"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2189
 msgctxt "City in Minnesota, United States"
 msgid "Roseau"
-msgstr "Roseau"
+msgstr "Rozo"
 
 #. A city in Minnesota in the United States
 #: ../data/Locations.xml.in.h:2191
@@ -5330,31 +5330,31 @@ msgstr "Saint James"
 #: ../data/Locations.xml.in.h:2193
 msgctxt "City in Mississippi, United States"
 msgid "Columbus"
-msgstr "Columbus"
+msgstr "Kolambusas"
 
 #. A city in Mississippi in the United States
 #: ../data/Locations.xml.in.h:2195
 msgctxt "City in Mississippi, United States"
 msgid "Greenville"
-msgstr "Greenville"
+msgstr "Grinvilis"
 
 #. A city in Mississippi in the United States
 #: ../data/Locations.xml.in.h:2197
 msgctxt "City in Mississippi, United States"
 msgid "Greenwood"
-msgstr "Greenwood"
+msgstr "Grinvudas"
 
 #. A city in Mississippi in the United States
 #: ../data/Locations.xml.in.h:2199
 msgctxt "City in Mississippi, United States"
 msgid "Jackson"
-msgstr "Jackson"
+msgstr "Džeksonas"
 
 #. A city in Mississippi in the United States
 #: ../data/Locations.xml.in.h:2201
 msgctxt "City in Mississippi, United States"
 msgid "Oxford"
-msgstr "Oxford"
+msgstr "Oksfordas"
 
 #. A city in Missouri in the United States
 #: ../data/Locations.xml.in.h:2203
@@ -5366,7 +5366,7 @@ msgstr "Kolumbija"
 #: ../data/Locations.xml.in.h:2205
 msgctxt "City in Missouri, United States"
 msgid "Farmington"
-msgstr "Farmington"
+msgstr "Farmingtonas"
 
 #. A city in Missouri in the United States
 #: ../data/Locations.xml.in.h:2207
@@ -5390,7 +5390,7 @@ msgstr "Vichy"
 #: ../data/Locations.xml.in.h:2213
 msgctxt "City in Monaco"
 msgid "Monaco"
-msgstr "Monaco"
+msgstr "Monakas"
 
 #. A city in Montana in the United States
 #: ../data/Locations.xml.in.h:2215
@@ -5420,43 +5420,43 @@ msgstr "Aurora"
 #: ../data/Locations.xml.in.h:2223
 msgctxt "City in Nebraska, United States"
 msgid "Columbus"
-msgstr "Columbus"
+msgstr "Kolambusas"
 
 #. A city in Nebraska in the United States
 #: ../data/Locations.xml.in.h:2225
 msgctxt "City in Nebraska, United States"
 msgid "Fremont"
-msgstr "Fremont"
+msgstr "Frimontas"
 
 #. A city in Nebraska in the United States
 #: ../data/Locations.xml.in.h:2227
 msgctxt "City in Nebraska, United States"
 msgid "Hebron"
-msgstr "Hebron"
+msgstr "Hibronas"
 
 #. A city in Nebraska in the United States
 #: ../data/Locations.xml.in.h:2229
 msgctxt "City in Nebraska, United States"
 msgid "Imperial"
-msgstr "Imperial"
+msgstr "Imperialas"
 
 #. A city in Nebraska in the United States
 #: ../data/Locations.xml.in.h:2231
 msgctxt "City in Nebraska, United States"
 msgid "Lexington"
-msgstr "Lexington"
+msgstr "Leksingtonas"
 
 #. A city in Nebraska in the United States
 #: ../data/Locations.xml.in.h:2233
 msgctxt "City in Nebraska, United States"
 msgid "Lincoln"
-msgstr "Lincoln"
+msgstr "Linkolnas"
 
 #. A city in Nebraska in the United States
 #: ../data/Locations.xml.in.h:2235
 msgctxt "City in Nebraska, United States"
 msgid "Norfolk"
-msgstr "Norfolk"
+msgstr "Norfolkas"
 
 #. A city in Nebraska in the United States
 #: ../data/Locations.xml.in.h:2237
@@ -5468,31 +5468,31 @@ msgstr "Sidnėjus"
 #: ../data/Locations.xml.in.h:2239
 msgctxt "City in Nebraska, United States"
 msgid "York"
-msgstr "York"
+msgstr "Jorkas"
 
 #. A city in Nevada in the United States
 #: ../data/Locations.xml.in.h:2241
 msgctxt "City in Nevada, United States"
 msgid "Ely"
-msgstr "Ely"
+msgstr "Ilis"
 
 #. A city in Nevada in the United States
 #: ../data/Locations.xml.in.h:2243
 msgctxt "City in Nevada, United States"
 msgid "Eureka"
-msgstr "Eureka"
+msgstr "Jurika"
 
 #. A city in Nevada in the United States
 #: ../data/Locations.xml.in.h:2245
 msgctxt "City in Nevada, United States"
 msgid "Henderson"
-msgstr "Henderson"
+msgstr "Hendersonas"
 
 #. A city in Nevada in the United States
 #: ../data/Locations.xml.in.h:2247
 msgctxt "City in Nevada, United States"
 msgid "Las Vegas"
-msgstr "Las Vegas"
+msgstr "Las Vegasas"
 
 #. A city in New Hampshire in the United States
 #: ../data/Locations.xml.in.h:2249
@@ -5504,13 +5504,13 @@ msgstr "Berlynas"
 #: ../data/Locations.xml.in.h:2251
 msgctxt "City in New Hampshire, United States"
 msgid "Concord"
-msgstr "Concord"
+msgstr "Konkordas"
 
 #. A city in New Hampshire in the United States
 #: ../data/Locations.xml.in.h:2253
 msgctxt "City in New Hampshire, United States"
 msgid "Lebanon"
-msgstr "Libanas"
+msgstr "Lebanonas"
 
 #. A city in New Hampshire in the United States
 #: ../data/Locations.xml.in.h:2255
@@ -5522,31 +5522,31 @@ msgstr "Mančesteris"
 #: ../data/Locations.xml.in.h:2257
 msgctxt "City in New Hampshire, United States"
 msgid "Plymouth"
-msgstr "Plymouth"
+msgstr "Plimutas"
 
 #. A city in New Hampshire in the United States
 #: ../data/Locations.xml.in.h:2259
 msgctxt "City in New Hampshire, United States"
 msgid "Portsmouth"
-msgstr "Portsmouth"
+msgstr "Portsmutas"
 
 #. A city in New Hampshire in the United States
 #: ../data/Locations.xml.in.h:2261
 msgctxt "City in New Hampshire, United States"
 msgid "Rochester"
-msgstr "Rochester"
+msgstr "Ročesteris"
 
 #. A city in New Jersey in the United States
 #: ../data/Locations.xml.in.h:2263
 msgctxt "City in New Jersey, United States"
 msgid "Caldwell"
-msgstr "Caldwell"
+msgstr "Koldvelis"
 
 #. A city in New Jersey in the United States
 #: ../data/Locations.xml.in.h:2265
 msgctxt "City in New Jersey, United States"
 msgid "Newark"
-msgstr "Newark"
+msgstr "Niuarkas"
 
 #. A city in New Jersey in the United States
 #: ../data/Locations.xml.in.h:2267
