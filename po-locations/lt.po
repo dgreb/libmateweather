@@ -6,7 +6,7 @@
 # Žygimantas Beručka <zygis@gnome.org>, 2004-2006.
 # Justina Klingaitė <justina.klingaite@gmail.com>, 2005.
 # Gintautas Miliauskas <gintas@akl.lt>, 2006, 2010.
-# Džiugas Grėbliūnas <dziugas.grebliunas@gmail.com>, 2018.
+# Džiugas Grėbliūnas <dziugas.grebliunas@gmail.com>, 2019.
 msgid ""
 msgstr ""
 "Project-Id-Version: lt\n"
@@ -5594,103 +5594,103 @@ msgstr "Sidnėjus"
 #: ../data/Locations.xml.in.h:2281
 msgctxt "City in New York, United States"
 msgid "Albany"
-msgstr "Albanija"
+msgstr "Olbanis"
 
 #. A city in New York in the United States
 #: ../data/Locations.xml.in.h:2283
 msgctxt "City in New York, United States"
 msgid "Buffalo"
-msgstr "Buffalo"
+msgstr "Bafalas"
 
 #. A city in New York in the United States
 #: ../data/Locations.xml.in.h:2285
 msgctxt "City in New York, United States"
 msgid "Elmira"
-msgstr "Elmira"
+msgstr "Elmaira"
 
 #. A city in New York in the United States
 #: ../data/Locations.xml.in.h:2287
 msgctxt "City in New York, United States"
 msgid "Jamestown"
-msgstr "Jamestown"
+msgstr "Džeimstaunas"
 
 #. A city in New York in the United States
 #: ../data/Locations.xml.in.h:2289
 msgctxt "City in New York, United States"
 msgid "Montgomery"
-msgstr "Montgomery"
+msgstr "Montgomeris"
 
 #. A city in New York in the United States
 #: ../data/Locations.xml.in.h:2291
 msgctxt "City in New York, United States"
 msgid "Monticello"
-msgstr "Monticello"
+msgstr "Montiselas"
 
 #. A city in New York in the United States
 #: ../data/Locations.xml.in.h:2293
 msgctxt "City in New York, United States"
 msgid "New York"
-msgstr "New York"
+msgstr "Niujorkas"
 
 #. A city in New York in the United States
 #: ../data/Locations.xml.in.h:2295
 msgctxt "City in New York, United States"
 msgid "Rochester"
-msgstr "Rochester"
+msgstr "Ročesteris"
 
 #. A city in New York in the United States
 #: ../data/Locations.xml.in.h:2297
 msgctxt "City in New York, United States"
 msgid "Rome"
-msgstr "Rome"
+msgstr "Romas"
 
 #. A city in New York in the United States
 #: ../data/Locations.xml.in.h:2299
 msgctxt "City in New York, United States"
 msgid "Watertown"
-msgstr "Watertown"
+msgstr "Votertaunas"
 
 #. A city in Newfoundland and Labrador in Canada
 #: ../data/Locations.xml.in.h:2301
 msgctxt "City in Newfoundland and Labrador, Canada"
 msgid "Hebron"
-msgstr "Hebron"
+msgstr "Hibronas"
 
 #. A city in Newfoundland and Labrador in Canada
 #: ../data/Locations.xml.in.h:2303
 msgctxt "City in Newfoundland and Labrador, Canada"
 msgid "Saint John's"
-msgstr "Saint John's"
+msgstr "Sent Džonsas"
 
 #. A city in Newfoundland and Labrador in Canada
 #: ../data/Locations.xml.in.h:2305
 msgctxt "City in Newfoundland and Labrador, Canada"
 msgid "Stephenville"
-msgstr "Stephenville"
+msgstr "Stivenvilis"
 
 #. A city in Norfolk Island
 #: ../data/Locations.xml.in.h:2307
 msgctxt "City in Norfolk Island"
 msgid "Kingston"
-msgstr "Kingston"
+msgstr "Kingstonas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2309
 msgctxt "City in North Carolina, United States"
 msgid "Beaufort"
-msgstr "Beaufort"
+msgstr "Bofortas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2311
 msgctxt "City in North Carolina, United States"
 msgid "Boone"
-msgstr "Boone"
+msgstr "Bunas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2313
 msgctxt "City in North Carolina, United States"
 msgid "Burlington"
-msgstr "Burlington"
+msgstr "Berlingtonas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2315
@@ -5702,67 +5702,67 @@ msgstr "Šarlotė"
 #: ../data/Locations.xml.in.h:2317
 msgctxt "City in North Carolina, United States"
 msgid "Clinton"
-msgstr "Clinton"
+msgstr "Klintonas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2319
 msgctxt "City in North Carolina, United States"
 msgid "Concord"
-msgstr "Concord"
+msgstr "Konkordas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2321
 msgctxt "City in North Carolina, United States"
 msgid "Fayetteville"
-msgstr "Fayetteville"
+msgstr "Fajetvilis"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2323
 msgctxt "City in North Carolina, United States"
 msgid "Franklin"
-msgstr "Franklin"
+msgstr "Franklinas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2325
 msgctxt "City in North Carolina, United States"
 msgid "Greensboro"
-msgstr "Greensboro"
+msgstr "Grinsboras"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2327
 msgctxt "City in North Carolina, United States"
 msgid "Jacksonville"
-msgstr "Jacksonville"
+msgstr "Džeksonvilis"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2329
 msgctxt "City in North Carolina, United States"
 msgid "Lexington"
-msgstr "Lexington"
+msgstr "Leksingtonas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2331
 msgctxt "City in North Carolina, United States"
 msgid "Monroe"
-msgstr "Monroe"
+msgstr "Monrou"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2333
 msgctxt "City in North Carolina, United States"
 msgid "Oxford"
-msgstr "Oxford"
+msgstr "Oksfordas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2335
 msgctxt "City in North Carolina, United States"
 msgid "Salisbury"
-msgstr "Salisbury"
+msgstr "Solsberis"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2337
 msgctxt "City in North Carolina, United States"
 msgid "Sanford"
-msgstr "Sanford"
+msgstr "Sanfordas"
 
 #. A city in North Carolina in the United States
 #: ../data/Locations.xml.in.h:2339
@@ -5774,19 +5774,19 @@ msgstr "Vašingtonas"
 #: ../data/Locations.xml.in.h:2341
 msgctxt "City in North Carolina, United States"
 msgid "Wilmington"
-msgstr "Wilmington"
+msgstr "Vilmingtonas"
 
 #. A city in North Dakota in the United States
 #: ../data/Locations.xml.in.h:2343
 msgctxt "City in North Dakota, United States"
 msgid "Jamestown"
-msgstr "Jamestown"
+msgstr "Džeimstaunas"
 
 #. A city in North East England in the United Kingdom
 #: ../data/Locations.xml.in.h:2345
 msgctxt "City in North East England, United Kingdom"
 msgid "Newcastle"
-msgstr "Newcastle"
+msgstr "Niukaslas prie Taino"
 
 #. A city in North East England in the United Kingdom
 #: ../data/Locations.xml.in.h:2347
@@ -5810,13 +5810,13 @@ msgstr "Mančesteris"
 #: ../data/Locations.xml.in.h:2353
 msgctxt "City in Northwest Territories, Canada"
 msgid "Fort Smith"
-msgstr "Fort Smith"
+msgstr "Fort Smitas"
 
 #. A city in Nova Scotia in Canada
 #: ../data/Locations.xml.in.h:2355
 msgctxt "City in Nova Scotia, Canada"
 msgid "Greenwood"
-msgstr "Greenwood"
+msgstr "Grinvudas"
 
 #. A city in Nova Scotia in Canada
 #: ../data/Locations.xml.in.h:2357
@@ -5834,25 +5834,25 @@ msgstr "Sidnėjus"
 #: ../data/Locations.xml.in.h:2361
 msgctxt "City in Nunavut, Canada"
 msgid "Eureka"
-msgstr "Eureka"
+msgstr "Eurika"
 
 #. A city in Oaxaca in Mexico
 #: ../data/Locations.xml.in.h:2363
 msgctxt "City in Oaxaca, Mexico"
 msgid "Oaxaca"
-msgstr "Oaxaca"
+msgstr "Oachaka"
 
 #. A city in Ohio in the United States
 #: ../data/Locations.xml.in.h:2365
 msgctxt "City in Ohio, United States"
 msgid "Akron"
-msgstr "Akron"
+msgstr "Akronas"
 
 #. A city in Ohio in the United States
 #: ../data/Locations.xml.in.h:2367
 msgctxt "City in Ohio, United States"
 msgid "Columbus"
-msgstr "Columbus"
+msgstr "Kolambusas"
 
 #. A city in Ohio in the United States
 #: ../data/Locations.xml.in.h:2369
@@ -5864,7 +5864,7 @@ msgstr "Hamiltonas"
 #: ../data/Locations.xml.in.h:2371
 msgctxt "City in Ohio, United States"
 msgid "Lancaster"
-msgstr "Lancaster"
+msgstr "Lankasteris"
 
 #. A city in Ohio in the United States
 #: ../data/Locations.xml.in.h:2373
@@ -5876,13 +5876,13 @@ msgstr "Lima"
 #: ../data/Locations.xml.in.h:2375
 msgctxt "City in Ohio, United States"
 msgid "Marion"
-msgstr "Marion"
+msgstr "Marionas"
 
 #. A city in Ohio in the United States
 #: ../data/Locations.xml.in.h:2377
 msgctxt "City in Ohio, United States"
 msgid "Newark"
-msgstr "Newark"
+msgstr "Niuarkas"
 
 #. A city in Ohio in the United States
 #: ../data/Locations.xml.in.h:2379
@@ -5894,25 +5894,25 @@ msgstr "Springfildas"
 #: ../data/Locations.xml.in.h:2381
 msgctxt "City in Ohio, United States"
 msgid "Wilmington"
-msgstr "Wilmington"
+msgstr "Vilmingtonas"
 
 #. A city in Oklahoma in the United States
 #: ../data/Locations.xml.in.h:2383
 msgctxt "City in Oklahoma, United States"
 msgid "Chandler"
-msgstr "Chandler"
+msgstr "Čandleris"
 
 #. A city in Oklahoma in the United States
 #: ../data/Locations.xml.in.h:2385
 msgctxt "City in Oklahoma, United States"
 msgid "Clinton"
-msgstr "Clinton"
+msgstr "Klintonas"
 
 #. A city in Oklahoma in the United States
 #: ../data/Locations.xml.in.h:2387
 msgctxt "City in Oklahoma, United States"
 msgid "Frederick"
-msgstr "Frederick"
+msgstr "Frederikas"
 
 #. A city in Oklahoma in the United States
 #: ../data/Locations.xml.in.h:2389
@@ -5924,19 +5924,19 @@ msgstr "Hobart"
 #: ../data/Locations.xml.in.h:2391
 msgctxt "City in Oklahoma, United States"
 msgid "Seminole"
-msgstr "Seminole"
+msgstr "Seminolas"
 
 #. A city in Ontario in Canada
 #: ../data/Locations.xml.in.h:2393
 msgctxt "City in Ontario, Canada"
 msgid "Burlington"
-msgstr "Burlington"
+msgstr "Berlingtonas"
 
 #. A city in Ontario in Canada
 #: ../data/Locations.xml.in.h:2395
 msgctxt "City in Ontario, Canada"
 msgid "Dryden"
-msgstr "Dryden"
+msgstr "Draienas"
 
 #. A city in Ontario in Canada
 #: ../data/Locations.xml.in.h:2397
@@ -5948,7 +5948,7 @@ msgstr "Hamiltonas"
 #: ../data/Locations.xml.in.h:2399
 msgctxt "City in Ontario, Canada"
 msgid "Kingston"
-msgstr "Kingston"
+msgstr "Kingstonas"
 
 #. A city in Ontario in Canada
 #: ../data/Locations.xml.in.h:2401
@@ -5960,7 +5960,7 @@ msgstr "Londonas"
 #: ../data/Locations.xml.in.h:2403
 msgctxt "City in Ontario, Canada"
 msgid "Trenton"
-msgstr "Trenton"
+msgstr "Trentonas"
 
 #. A city in Ontario in Canada
 #: ../data/Locations.xml.in.h:2405
@@ -5972,31 +5972,31 @@ msgstr "Vaterlo"
 #: ../data/Locations.xml.in.h:2407
 msgctxt "City in Oregon, United States"
 msgid "Aurora"
-msgstr "Aurora"
+msgstr "Orora"
 
 #. A city in Oregon in the United States
 #: ../data/Locations.xml.in.h:2409
 msgctxt "City in Oregon, United States"
 msgid "Brookings"
-msgstr "Brookings"
+msgstr "Brukingsas"
 
 #. A city in Oregon in the United States
 #: ../data/Locations.xml.in.h:2411
 msgctxt "City in Oregon, United States"
 msgid "Medford"
-msgstr "Medford"
+msgstr "Medfordas"
 
 #. A city in Oregon in the United States
 #: ../data/Locations.xml.in.h:2413
 msgctxt "City in Oregon, United States"
 msgid "Newport"
-msgstr "Newport"
+msgstr "Niuportas"
 
 #. A city in Oregon in the United States
 #: ../data/Locations.xml.in.h:2415
 msgctxt "City in Oregon, United States"
 msgid "Ontario"
-msgstr "Ontario"
+msgstr "Ontarijas"
 
 #. A city in Oregon in the United States
 #: ../data/Locations.xml.in.h:2417
@@ -6008,13 +6008,13 @@ msgstr "Portlandas"
 #: ../data/Locations.xml.in.h:2419
 msgctxt "City in Oregon, United States"
 msgid "Rome"
-msgstr "Rome"
+msgstr "Romas"
 
 #. A city in Oregon in the United States
 #: ../data/Locations.xml.in.h:2421
 msgctxt "City in Oregon, United States"
 msgid "Salem"
-msgstr "Salem"
+msgstr "Salemas"
 
 #. A city in Pennsylvania in the United States
 #: ../data/Locations.xml.in.h:2423
@@ -10726,7 +10726,7 @@ msgstr "Hoquiam"
 #. A city in Ukraine
 #: ../data/Locations.xml.in.h:4384
 msgid "Hostomel'"
-msgstr "Hostomel'"
+msgstr "Hostomelis"
 
 #. A city in Michigan in the United States
 #: ../data/Locations.xml.in.h:4386
@@ -28666,34 +28666,34 @@ msgstr "Šiauliai"
 #~ msgstr "Zanzibar / Kisauni"
 
 #~ msgid "Zaporizhzhia/Mokraya"
-#~ msgstr "Zaporizhzhia/Mokraya"
+#~ msgstr "Zaporižia"
 
 #~ msgid "Zaventem"
-#~ msgstr "Zaventem"
+#~ msgstr "Zaventemas"
 
 #~ msgid "Zhang Gui Zhuang"
 #~ msgstr "Zhang Gui Zhuang"
 
 #~ msgid "Zhongchuan Airport"
-#~ msgstr "Zhongchuan Airport"
+#~ msgstr "Džongčuano oro uostas"
 
 #~ msgid "Zhuliany"
-#~ msgstr "Zhuliany"
+#~ msgstr "Žulianai"
 
 #~ msgid "Zuni Pueblo"
 #~ msgstr "Zuni Pueblo"
 
 #~ msgid "Århus"
-#~ msgstr "Århus"
+#~ msgstr "Orhusas"
 
 #~ msgid "Île Wallis"
-#~ msgstr "Île Wallis"
+#~ msgstr "Volisas"
 
 #~ msgid "Östersund"
-#~ msgstr "Östersund"
+#~ msgstr "Estešundas"
 
 #~ msgid "Ørsta-Volda/Hovden"
 #~ msgstr "Ørsta-Volda/Hovden"
 
 #~ msgid "Ülemiste Airport (alternate)"
-#~ msgstr "Ülemiste Airport (alternate)"
+#~ msgstr "Talino oro uostas (kitas pasirinkimas)"
